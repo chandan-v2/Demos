@@ -14,6 +14,266 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-RNComponents-RNComponentsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-RNComponents-RNComponentsTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		AD56EB602AA19E30005EDBFB /* FontAwesome5.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA282AA19E30005EDBFB /* FontAwesome5.js */; };
+		AD56EB612AA19E30005EDBFB /* Zocial.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA292AA19E30005EDBFB /* Zocial.js.flow */; };
+		AD56EB622AA19E30005EDBFB /* FontAwesome.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA2A2AA19E30005EDBFB /* FontAwesome.js.flow */; };
+		AD56EB632AA19E30005EDBFB /* Ionicons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA2B2AA19E30005EDBFB /* Ionicons.js */; };
+		AD56EB642AA19E30005EDBFB /* FontAwesome5Pro.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA2C2AA19E30005EDBFB /* FontAwesome5Pro.js.flow */; };
+		AD56EB652AA19E30005EDBFB /* FONTAWESOME6.md in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA2D2AA19E30005EDBFB /* FONTAWESOME6.md */; };
+		AD56EB662AA19E30005EDBFB /* Fontisto.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA2E2AA19E30005EDBFB /* Fontisto.js.flow */; };
+		AD56EB672AA19E30005EDBFB /* Entypo.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA2F2AA19E30005EDBFB /* Entypo.js */; };
+		AD56EB682AA19E30005EDBFB /* SimpleLineIcons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA302AA19E30005EDBFB /* SimpleLineIcons.js */; };
+		AD56EB692AA19E30005EDBFB /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA312AA19E30005EDBFB /* LICENSE */; };
+		AD56EB6A2AA19E30005EDBFB /* MaterialCommunityIcons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA322AA19E30005EDBFB /* MaterialCommunityIcons.js.flow */; };
+		AD56EB6B2AA19E30005EDBFB /* Foundation.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA332AA19E30005EDBFB /* Foundation.js */; };
+		AD56EB6C2AA19E30005EDBFB /* generate-fontawesome5-metadata.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA352AA19E30005EDBFB /* generate-fontawesome5-metadata.js */; };
+		AD56EB6D2AA19E30005EDBFB /* fa-upgrade.sh in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA362AA19E30005EDBFB /* fa-upgrade.sh */; };
+		AD56EB6E2AA19E30005EDBFB /* generate-flow.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA372AA19E30005EDBFB /* generate-flow.js */; };
+		AD56EB6F2AA19E30005EDBFB /* fa5-upgrade.sh in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA382AA19E30005EDBFB /* fa5-upgrade.sh */; };
+		AD56EB702AA19E30005EDBFB /* generate-icon.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA392AA19E30005EDBFB /* generate-icon.js */; };
+		AD56EB712AA19E30005EDBFB /* add-font-assets.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA3A2AA19E30005EDBFB /* add-font-assets.js */; };
+		AD56EB722AA19E30005EDBFB /* generate-fontawesome6-metadata.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA3B2AA19E30005EDBFB /* generate-fontawesome6-metadata.js */; };
+		AD56EB732AA19E30005EDBFB /* generate-material-icons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA3C2AA19E30005EDBFB /* generate-material-icons.js */; };
+		AD56EB742AA19E30005EDBFB /* fa6-upgrade.sh in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA3D2AA19E30005EDBFB /* fa6-upgrade.sh */; };
+		AD56EB752AA19E30005EDBFB /* generate-ionicons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA3E2AA19E30005EDBFB /* generate-ionicons.js */; };
+		AD56EB762AA19E30005EDBFB /* RNVectorIconsManager.m in Sources */ = {isa = PBXBuildFile; fileRef = AD56EA402AA19E30005EDBFB /* RNVectorIconsManager.m */; };
+		AD56EB772AA19E30005EDBFB /* FontAwesome5.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA432AA19E30005EDBFB /* FontAwesome5.js */; };
+		AD56EB782AA19E30005EDBFB /* Zocial.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA442AA19E30005EDBFB /* Zocial.js.flow */; };
+		AD56EB792AA19E30005EDBFB /* FontAwesome.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA452AA19E30005EDBFB /* FontAwesome.js.flow */; };
+		AD56EB7A2AA19E30005EDBFB /* Ionicons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA462AA19E30005EDBFB /* Ionicons.js */; };
+		AD56EB7B2AA19E30005EDBFB /* FontAwesome5Pro.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA472AA19E30005EDBFB /* FontAwesome5Pro.js.flow */; };
+		AD56EB7C2AA19E30005EDBFB /* Fontisto.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA482AA19E30005EDBFB /* Fontisto.js.flow */; };
+		AD56EB7D2AA19E30005EDBFB /* Entypo.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA492AA19E30005EDBFB /* Entypo.js */; };
+		AD56EB7E2AA19E30005EDBFB /* SimpleLineIcons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA4A2AA19E30005EDBFB /* SimpleLineIcons.js */; };
+		AD56EB7F2AA19E30005EDBFB /* MaterialCommunityIcons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA4B2AA19E30005EDBFB /* MaterialCommunityIcons.js.flow */; };
+		AD56EB802AA19E30005EDBFB /* Foundation.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA4C2AA19E30005EDBFB /* Foundation.js */; };
+		AD56EB812AA19E30005EDBFB /* MaterialIcons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA4D2AA19E30005EDBFB /* MaterialIcons.js.flow */; };
+		AD56EB822AA19E30005EDBFB /* Entypo.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA4E2AA19E30005EDBFB /* Entypo.js.flow */; };
+		AD56EB832AA19E30005EDBFB /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA4F2AA19E30005EDBFB /* index.js */; };
+		AD56EB842AA19E30005EDBFB /* SimpleLineIcons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA502AA19E30005EDBFB /* SimpleLineIcons.js.flow */; };
+		AD56EB852AA19E30005EDBFB /* Zocial.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA512AA19E30005EDBFB /* Zocial.js */; };
+		AD56EB862AA19E30005EDBFB /* FontAwesome.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA522AA19E30005EDBFB /* FontAwesome.js */; };
+		AD56EB872AA19E30005EDBFB /* EvilIcons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA532AA19E30005EDBFB /* EvilIcons.js */; };
+		AD56EB882AA19E30005EDBFB /* index.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA542AA19E30005EDBFB /* index.js.flow */; };
+		AD56EB892AA19E30005EDBFB /* AntDesign.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA552AA19E30005EDBFB /* AntDesign.js */; };
+		AD56EB8A2AA19E30005EDBFB /* AntDesign.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA562AA19E30005EDBFB /* AntDesign.js.flow */; };
+		AD56EB8B2AA19E30005EDBFB /* RNIMigration.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA572AA19E30005EDBFB /* RNIMigration.js */; };
+		AD56EB8C2AA19E30005EDBFB /* Foundation.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA582AA19E30005EDBFB /* Foundation.js.flow */; };
+		AD56EB8D2AA19E30005EDBFB /* FontAwesome5.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA592AA19E30005EDBFB /* FontAwesome5.js.flow */; };
+		AD56EB8E2AA19E30005EDBFB /* Octicons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA5A2AA19E30005EDBFB /* Octicons.js.flow */; };
+		AD56EB8F2AA19E30005EDBFB /* icon-button.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA5C2AA19E30005EDBFB /* icon-button.js */; };
+		AD56EB902AA19E30005EDBFB /* create-icon-source-cache.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA5D2AA19E30005EDBFB /* create-icon-source-cache.js */; };
+		AD56EB912AA19E30005EDBFB /* create-multi-style-icon-set.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA5E2AA19E30005EDBFB /* create-multi-style-icon-set.js */; };
+		AD56EB922AA19E30005EDBFB /* ensure-native-module-available.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA5F2AA19E30005EDBFB /* ensure-native-module-available.js */; };
+		AD56EB932AA19E30005EDBFB /* create-icon-set-from-fontawesome6.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA602AA19E30005EDBFB /* create-icon-set-from-fontawesome6.js */; };
+		AD56EB942AA19E30005EDBFB /* NativeRNVectorIcons.web.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA612AA19E30005EDBFB /* NativeRNVectorIcons.web.js */; };
+		AD56EB952AA19E30005EDBFB /* create-icon-set.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA622AA19E30005EDBFB /* create-icon-set.js */; };
+		AD56EB962AA19E30005EDBFB /* object-utils.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA632AA19E30005EDBFB /* object-utils.js */; };
+		AD56EB972AA19E30005EDBFB /* create-icon-set-from-fontawesome5.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA642AA19E30005EDBFB /* create-icon-set-from-fontawesome5.js */; };
+		AD56EB982AA19E30005EDBFB /* NativeRNVectorIcons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA652AA19E30005EDBFB /* NativeRNVectorIcons.js */; };
+		AD56EB992AA19E30005EDBFB /* create-icon-set-from-icomoon.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA662AA19E30005EDBFB /* create-icon-set-from-icomoon.js */; };
+		AD56EB9A2AA19E30005EDBFB /* create-icon-set-from-fontello.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA672AA19E30005EDBFB /* create-icon-set-from-fontello.js */; };
+		AD56EB9B2AA19E30005EDBFB /* generate-icon-set-from-css.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA682AA19E30005EDBFB /* generate-icon-set-from-css.js */; };
+		AD56EB9C2AA19E30005EDBFB /* FontAwesome5Pro.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA692AA19E30005EDBFB /* FontAwesome5Pro.js */; };
+		AD56EB9D2AA19E30005EDBFB /* Feather.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA6A2AA19E30005EDBFB /* Feather.js */; };
+		AD56EB9E2AA19E30005EDBFB /* Feather.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA6B2AA19E30005EDBFB /* Feather.js.flow */; };
+		AD56EB9F2AA19E30005EDBFB /* Ionicons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA6D2AA19E30005EDBFB /* Ionicons.json */; };
+		AD56EBA02AA19E30005EDBFB /* FontAwesome5Pro.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA6E2AA19E30005EDBFB /* FontAwesome5Pro.json */; };
+		AD56EBA12AA19E30005EDBFB /* Fontisto.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA6F2AA19E30005EDBFB /* Fontisto.json */; };
+		AD56EBA22AA19E30005EDBFB /* EvilIcons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA702AA19E30005EDBFB /* EvilIcons.json */; };
+		AD56EBA32AA19E30005EDBFB /* Octicons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA712AA19E30005EDBFB /* Octicons.json */; };
+		AD56EBA42AA19E30005EDBFB /* FontAwesome5Free_meta.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA722AA19E30005EDBFB /* FontAwesome5Free_meta.json */; };
+		AD56EBA52AA19E30005EDBFB /* FontAwesome6Free.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA732AA19E30005EDBFB /* FontAwesome6Free.json */; };
+		AD56EBA62AA19E30005EDBFB /* FontAwesome6Free_meta.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA742AA19E30005EDBFB /* FontAwesome6Free_meta.json */; };
+		AD56EBA72AA19E30005EDBFB /* FontAwesome.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA752AA19E30005EDBFB /* FontAwesome.json */; };
+		AD56EBA82AA19E30005EDBFB /* MaterialIcons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA762AA19E30005EDBFB /* MaterialIcons.json */; };
+		AD56EBA92AA19E30005EDBFB /* FontAwesome6Pro.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA772AA19E30005EDBFB /* FontAwesome6Pro.json */; };
+		AD56EBAA2AA19E30005EDBFB /* FontAwesome6Pro_meta.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA782AA19E30005EDBFB /* FontAwesome6Pro_meta.json */; };
+		AD56EBAB2AA19E30005EDBFB /* Entypo.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA792AA19E30005EDBFB /* Entypo.json */; };
+		AD56EBAC2AA19E30005EDBFB /* SimpleLineIcons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA7A2AA19E30005EDBFB /* SimpleLineIcons.json */; };
+		AD56EBAD2AA19E30005EDBFB /* AntDesign.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA7B2AA19E30005EDBFB /* AntDesign.json */; };
+		AD56EBAE2AA19E30005EDBFB /* FontAwesome5Pro_meta.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA7C2AA19E30005EDBFB /* FontAwesome5Pro_meta.json */; };
+		AD56EBAF2AA19E30005EDBFB /* FontAwesome5Free.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA7D2AA19E30005EDBFB /* FontAwesome5Free.json */; };
+		AD56EBB02AA19E30005EDBFB /* Feather.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA7E2AA19E30005EDBFB /* Feather.json */; };
+		AD56EBB12AA19E30005EDBFB /* MaterialCommunityIcons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA7F2AA19E30005EDBFB /* MaterialCommunityIcons.json */; };
+		AD56EBB22AA19E30005EDBFB /* Foundation.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA802AA19E30005EDBFB /* Foundation.json */; };
+		AD56EBB32AA19E30005EDBFB /* Zocial.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA812AA19E30005EDBFB /* Zocial.json */; };
+		AD56EBB42AA19E30005EDBFB /* EvilIcons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA822AA19E30005EDBFB /* EvilIcons.js.flow */; };
+		AD56EBB52AA19E30005EDBFB /* MaterialIcons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA832AA19E30005EDBFB /* MaterialIcons.js */; };
+		AD56EBB62AA19E30005EDBFB /* Ionicons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA842AA19E30005EDBFB /* Ionicons.js.flow */; };
+		AD56EBB72AA19E30005EDBFB /* FontAwesome6.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA852AA19E30005EDBFB /* FontAwesome6.js */; };
+		AD56EBB82AA19E30005EDBFB /* Octicons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA862AA19E30005EDBFB /* Octicons.js */; };
+		AD56EBB92AA19E30005EDBFB /* Fontisto.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA872AA19E30005EDBFB /* Fontisto.js */; };
+		AD56EBBA2AA19E30005EDBFB /* FontAwesome6Pro.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA882AA19E30005EDBFB /* FontAwesome6Pro.js */; };
+		AD56EBBB2AA19E30005EDBFB /* MaterialCommunityIcons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA892AA19E30005EDBFB /* MaterialCommunityIcons.js */; };
+		AD56EBBC2AA19E30005EDBFB /* MaterialIcons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA8A2AA19E30005EDBFB /* MaterialIcons.js.flow */; };
+		AD56EBBD2AA19E30005EDBFB /* CHANGELOG.md in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA8D2AA19E30005EDBFB /* CHANGELOG.md */; };
+		AD56EBBE2AA19E30005EDBFB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA8E2AA19E30005EDBFB /* README.md */; };
+		AD56EBBF2AA19E30005EDBFB /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA8F2AA19E30005EDBFB /* package.json */; };
+		AD56EBC02AA19E30005EDBFB /* index.cjs in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA912AA19E30005EDBFB /* index.cjs */; };
+		AD56EBC12AA19E30005EDBFB /* string-utils.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA932AA19E30005EDBFB /* string-utils.js */; };
+		AD56EBC22AA19E30005EDBFB /* tokenize-arg-string.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA942AA19E30005EDBFB /* tokenize-arg-string.js */; };
+		AD56EBC32AA19E30005EDBFB /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA952AA19E30005EDBFB /* index.js */; };
+		AD56EBC42AA19E30005EDBFB /* yargs-parser.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA962AA19E30005EDBFB /* yargs-parser.js */; };
+		AD56EBC52AA19E30005EDBFB /* yargs-parser-types.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA972AA19E30005EDBFB /* yargs-parser-types.js */; };
+		AD56EBC62AA19E30005EDBFB /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA982AA19E30005EDBFB /* LICENSE.txt */; };
+		AD56EBC72AA19E30005EDBFB /* browser.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA992AA19E30005EDBFB /* browser.js */; };
+		AD56EBC82AA19E30005EDBFB /* CHANGELOG.md in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA9B2AA19E30005EDBFB /* CHANGELOG.md */; };
+		AD56EBC92AA19E30005EDBFB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA9C2AA19E30005EDBFB /* README.md */; };
+		AD56EBCA2AA19E30005EDBFB /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA9D2AA19E30005EDBFB /* package.json */; };
+		AD56EBCB2AA19E30005EDBFB /* index.mjs in Resources */ = {isa = PBXBuildFile; fileRef = AD56EA9E2AA19E30005EDBFB /* index.mjs */; };
+		AD56EBCC2AA19E30005EDBFB /* index.cjs in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAA02AA19E30005EDBFB /* index.cjs */; };
+		AD56EBCD2AA19E30005EDBFB /* string-utils.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAA22AA19E30005EDBFB /* string-utils.js */; };
+		AD56EBCE2AA19E30005EDBFB /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAA32AA19E30005EDBFB /* index.js */; };
+		AD56EBCF2AA19E30005EDBFB /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAA42AA19E30005EDBFB /* LICENSE.txt */; };
+		AD56EBD02AA19E30005EDBFB /* tr.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAA72AA19E30005EDBFB /* tr.json */; };
+		AD56EBD12AA19E30005EDBFB /* hu.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAA82AA19E30005EDBFB /* hu.json */; };
+		AD56EBD22AA19E30005EDBFB /* nl.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAA92AA19E30005EDBFB /* nl.json */; };
+		AD56EBD32AA19E30005EDBFB /* pirate.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAAA2AA19E30005EDBFB /* pirate.json */; };
+		AD56EBD42AA19E30005EDBFB /* zh_CN.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAAB2AA19E30005EDBFB /* zh_CN.json */; };
+		AD56EBD52AA19E30005EDBFB /* ja.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAAC2AA19E30005EDBFB /* ja.json */; };
+		AD56EBD62AA19E30005EDBFB /* de.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAAD2AA19E30005EDBFB /* de.json */; };
+		AD56EBD72AA19E30005EDBFB /* ru.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAAE2AA19E30005EDBFB /* ru.json */; };
+		AD56EBD82AA19E30005EDBFB /* pl.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAAF2AA19E30005EDBFB /* pl.json */; };
+		AD56EBD92AA19E30005EDBFB /* fi.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAB02AA19E30005EDBFB /* fi.json */; };
+		AD56EBDA2AA19E30005EDBFB /* pt.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAB12AA19E30005EDBFB /* pt.json */; };
+		AD56EBDB2AA19E30005EDBFB /* be.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAB22AA19E30005EDBFB /* be.json */; };
+		AD56EBDC2AA19E30005EDBFB /* en.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAB32AA19E30005EDBFB /* en.json */; };
+		AD56EBDD2AA19E30005EDBFB /* it.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAB42AA19E30005EDBFB /* it.json */; };
+		AD56EBDE2AA19E30005EDBFB /* fr.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAB52AA19E30005EDBFB /* fr.json */; };
+		AD56EBDF2AA19E30005EDBFB /* hi.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAB62AA19E30005EDBFB /* hi.json */; };
+		AD56EBE02AA19E30005EDBFB /* ko.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAB72AA19E30005EDBFB /* ko.json */; };
+		AD56EBE12AA19E30005EDBFB /* id.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAB82AA19E30005EDBFB /* id.json */; };
+		AD56EBE22AA19E30005EDBFB /* pt_BR.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAB92AA19E30005EDBFB /* pt_BR.json */; };
+		AD56EBE32AA19E30005EDBFB /* zh_TW.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EABA2AA19E30005EDBFB /* zh_TW.json */; };
+		AD56EBE42AA19E30005EDBFB /* th.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EABB2AA19E30005EDBFB /* th.json */; };
+		AD56EBE52AA19E30005EDBFB /* nn.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EABC2AA19E30005EDBFB /* nn.json */; };
+		AD56EBE62AA19E30005EDBFB /* es.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EABD2AA19E30005EDBFB /* es.json */; };
+		AD56EBE72AA19E30005EDBFB /* nb.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EABE2AA19E30005EDBFB /* nb.json */; };
+		AD56EBE82AA19E30005EDBFB /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = AD56EABF2AA19E30005EDBFB /* LICENSE */; };
+		AD56EBE92AA19E30005EDBFB /* CHANGELOG.md in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAC02AA19E30005EDBFB /* CHANGELOG.md */; };
+		AD56EBEA2AA19E30005EDBFB /* browser.mjs in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAC12AA19E30005EDBFB /* browser.mjs */; };
+		AD56EBEB2AA19E30005EDBFB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAC22AA19E30005EDBFB /* README.md */; };
+		AD56EBEC2AA19E30005EDBFB /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAC32AA19E30005EDBFB /* package.json */; };
+		AD56EBED2AA19E30005EDBFB /* index.cjs in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAC42AA19E30005EDBFB /* index.cjs */; };
+		AD56EBEE2AA19E30005EDBFB /* index.mjs in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAC52AA19E30005EDBFB /* index.mjs */; };
+		AD56EBEF2AA19E30005EDBFB /* browser.mjs in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAC82AA19E30005EDBFB /* browser.mjs */; };
+		AD56EBF02AA19E30005EDBFB /* esm.mjs in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAC92AA19E30005EDBFB /* esm.mjs */; };
+		AD56EBF12AA19E30005EDBFB /* yargs in Resources */ = {isa = PBXBuildFile; fileRef = AD56EACA2AA19E30005EDBFB /* yargs */; };
+		AD56EBF22AA19E30005EDBFB /* index.cjs in Resources */ = {isa = PBXBuildFile; fileRef = AD56EACC2AA19E30005EDBFB /* index.cjs */; };
+		AD56EBF32AA19E30005EDBFB /* argsert.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EACE2AA19E30005EDBFB /* argsert.js */; };
+		AD56EBF42AA19E30005EDBFB /* yerror.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EACF2AA19E30005EDBFB /* yerror.js */; };
+		AD56EBF52AA19E30005EDBFB /* yargs-parser-types.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAD12AA19E30005EDBFB /* yargs-parser-types.js */; };
+		AD56EBF62AA19E30005EDBFB /* common-types.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAD22AA19E30005EDBFB /* common-types.js */; };
+		AD56EBF72AA19E30005EDBFB /* parse-command.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAD32AA19E30005EDBFB /* parse-command.js */; };
+		AD56EBF82AA19E30005EDBFB /* completion.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAD42AA19E30005EDBFB /* completion.js */; };
+		AD56EBF92AA19E30005EDBFB /* apply-extends.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAD62AA19E30005EDBFB /* apply-extends.js */; };
+		AD56EBFA2AA19E30005EDBFB /* is-promise.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAD72AA19E30005EDBFB /* is-promise.js */; };
+		AD56EBFB2AA19E30005EDBFB /* set-blocking.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAD82AA19E30005EDBFB /* set-blocking.js */; };
+		AD56EBFC2AA19E30005EDBFB /* which-module.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAD92AA19E30005EDBFB /* which-module.js */; };
+		AD56EBFD2AA19E30005EDBFB /* obj-filter.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EADA2AA19E30005EDBFB /* obj-filter.js */; };
+		AD56EBFE2AA19E30005EDBFB /* process-argv.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EADB2AA19E30005EDBFB /* process-argv.js */; };
+		AD56EBFF2AA19E30005EDBFB /* levenshtein.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EADC2AA19E30005EDBFB /* levenshtein.js */; };
+		AD56EC002AA19E30005EDBFB /* command.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EADD2AA19E30005EDBFB /* command.js */; };
+		AD56EC012AA19E30005EDBFB /* validation.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EADE2AA19E30005EDBFB /* validation.js */; };
+		AD56EC022AA19E30005EDBFB /* middleware.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EADF2AA19E30005EDBFB /* middleware.js */; };
+		AD56EC032AA19E30005EDBFB /* usage.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAE02AA19E30005EDBFB /* usage.js */; };
+		AD56EC042AA19E30005EDBFB /* completion-templates.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAE12AA19E30005EDBFB /* completion-templates.js */; };
+		AD56EC052AA19E30005EDBFB /* yargs-factory.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAE22AA19E30005EDBFB /* yargs-factory.js */; };
+		AD56EC062AA19E30005EDBFB /* helpers.mjs in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAE42AA19E30005EDBFB /* helpers.mjs */; };
+		AD56EC072AA19E30005EDBFB /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAE52AA19E30005EDBFB /* index.js */; };
+		AD56EC082AA19E30005EDBFB /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAE62AA19E30005EDBFB /* package.json */; };
+		AD56EC092AA19E30005EDBFB /* Entypo.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAE72AA19E30005EDBFB /* Entypo.js.flow */; };
+		AD56EC0A2AA19E30005EDBFB /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAE82AA19E30005EDBFB /* index.js */; };
+		AD56EC0B2AA19E30005EDBFB /* SimpleLineIcons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAE92AA19E30005EDBFB /* SimpleLineIcons.js.flow */; };
+		AD56EC0C2AA19E30005EDBFB /* Zocial.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAEA2AA19E30005EDBFB /* Zocial.js */; };
+		AD56EC0D2AA19E30005EDBFB /* FontAwesome.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAEB2AA19E30005EDBFB /* FontAwesome.js */; };
+		AD56EC0E2AA19E30005EDBFB /* RNVectorIcons.podspec in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAEC2AA19E30005EDBFB /* RNVectorIcons.podspec */; };
+		AD56EC0F2AA19E30005EDBFB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAED2AA19E30005EDBFB /* README.md */; };
+		AD56EC102AA19E30005EDBFB /* EvilIcons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAEE2AA19E30005EDBFB /* EvilIcons.js */; };
+		AD56EC112AA19E30005EDBFB /* index.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAF22AA19E30005EDBFB /* index.js.flow */; };
+		AD56EC122AA19E30005EDBFB /* AntDesign.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAF32AA19E30005EDBFB /* AntDesign.js */; };
+		AD56EC132AA19E30005EDBFB /* package.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAF42AA19E30005EDBFB /* package.json */; };
+		AD56EC142AA19E30005EDBFB /* AntDesign.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAF52AA19E30005EDBFB /* AntDesign.js.flow */; };
+		AD56EC152AA19E30005EDBFB /* CONTRIBUTING.md in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAF62AA19E30005EDBFB /* CONTRIBUTING.md */; };
+		AD56EC162AA19E30005EDBFB /* RNIMigration.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAF72AA19E30005EDBFB /* RNIMigration.js */; };
+		AD56EC172AA19E30005EDBFB /* Foundation.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAF82AA19E30005EDBFB /* Foundation.js.flow */; };
+		AD56EC182AA19E30005EDBFB /* build.gradle in Resources */ = {isa = PBXBuildFile; fileRef = AD56EAFA2AA19E30005EDBFB /* build.gradle */; };
+		AD56EC192AA19E30005EDBFB /* VectorIconsModule.java in Sources */ = {isa = PBXBuildFile; fileRef = AD56EB012AA19E30005EDBFB /* VectorIconsModule.java */; };
+		AD56EC1A2AA19E30005EDBFB /* VectorIconsModule.java in Sources */ = {isa = PBXBuildFile; fileRef = AD56EB072AA19E30005EDBFB /* VectorIconsModule.java */; };
+		AD56EC1B2AA19E30005EDBFB /* AndroidManifest.xml in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB092AA19E30005EDBFB /* AndroidManifest.xml */; };
+		AD56EC1C2AA19E30005EDBFB /* VectorIconsPackage.java in Sources */ = {isa = PBXBuildFile; fileRef = AD56EB0E2AA19E30005EDBFB /* VectorIconsPackage.java */; };
+		AD56EC1D2AA19E30005EDBFB /* VectorIconsModuleImpl.java in Sources */ = {isa = PBXBuildFile; fileRef = AD56EB0F2AA19E30005EDBFB /* VectorIconsModuleImpl.java */; };
+		AD56EC1E2AA19E30005EDBFB /* FontAwesome5.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB102AA19E30005EDBFB /* FontAwesome5.js.flow */; };
+		AD56EC1F2AA19E30005EDBFB /* Octicons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB112AA19E30005EDBFB /* Octicons.js.flow */; };
+		AD56EC202AA19E30005EDBFB /* fonts.gradle in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB122AA19E30005EDBFB /* fonts.gradle */; };
+		AD56EC212AA19E30005EDBFB /* icon-button.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB142AA19E30005EDBFB /* icon-button.js */; };
+		AD56EC222AA19E30005EDBFB /* create-icon-source-cache.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB152AA19E30005EDBFB /* create-icon-source-cache.js */; };
+		AD56EC232AA19E30005EDBFB /* create-multi-style-icon-set.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB162AA19E30005EDBFB /* create-multi-style-icon-set.js */; };
+		AD56EC242AA19E30005EDBFB /* ensure-native-module-available.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB172AA19E30005EDBFB /* ensure-native-module-available.js */; };
+		AD56EC252AA19E30005EDBFB /* create-icon-set-from-fontawesome6.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB182AA19E30005EDBFB /* create-icon-set-from-fontawesome6.js */; };
+		AD56EC262AA19E30005EDBFB /* NativeRNVectorIcons.web.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB192AA19E30005EDBFB /* NativeRNVectorIcons.web.js */; };
+		AD56EC272AA19E30005EDBFB /* create-icon-set.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB1A2AA19E30005EDBFB /* create-icon-set.js */; };
+		AD56EC282AA19E30005EDBFB /* object-utils.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB1B2AA19E30005EDBFB /* object-utils.js */; };
+		AD56EC292AA19E30005EDBFB /* create-icon-set-from-fontawesome5.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB1C2AA19E30005EDBFB /* create-icon-set-from-fontawesome5.js */; };
+		AD56EC2A2AA19E30005EDBFB /* NativeRNVectorIcons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB1D2AA19E30005EDBFB /* NativeRNVectorIcons.js */; };
+		AD56EC2B2AA19E30005EDBFB /* create-icon-set-from-icomoon.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB1E2AA19E30005EDBFB /* create-icon-set-from-icomoon.js */; };
+		AD56EC2C2AA19E30005EDBFB /* create-icon-set-from-fontello.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB1F2AA19E30005EDBFB /* create-icon-set-from-fontello.js */; };
+		AD56EC2D2AA19E30005EDBFB /* generate-icon-set-from-css.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB202AA19E30005EDBFB /* generate-icon-set-from-css.js */; };
+		AD56EC2E2AA19E30005EDBFB /* FontAwesome5Pro.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB212AA19E30005EDBFB /* FontAwesome5Pro.js */; };
+		AD56EC2F2AA19E30005EDBFB /* bundled-icon-set.tpl in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB232AA19E30005EDBFB /* bundled-icon-set.tpl */; };
+		AD56EC302AA19E30005EDBFB /* separated-icon-set.tpl in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB242AA19E30005EDBFB /* separated-icon-set.tpl */; };
+		AD56EC312AA19E30005EDBFB /* Feather.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB252AA19E30005EDBFB /* Feather.js */; };
+		AD56EC322AA19E30005EDBFB /* Feather.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB262AA19E30005EDBFB /* Feather.js.flow */; };
+		AD56EC332AA19E30005EDBFB /* Ionicons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB282AA19E30005EDBFB /* Ionicons.json */; };
+		AD56EC342AA19E30005EDBFB /* FontAwesome5Pro.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB292AA19E30005EDBFB /* FontAwesome5Pro.json */; };
+		AD56EC352AA19E30005EDBFB /* Fontisto.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB2A2AA19E30005EDBFB /* Fontisto.json */; };
+		AD56EC362AA19E30005EDBFB /* EvilIcons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB2B2AA19E30005EDBFB /* EvilIcons.json */; };
+		AD56EC372AA19E30005EDBFB /* Octicons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB2C2AA19E30005EDBFB /* Octicons.json */; };
+		AD56EC382AA19E30005EDBFB /* FontAwesome5Free_meta.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB2D2AA19E30005EDBFB /* FontAwesome5Free_meta.json */; };
+		AD56EC392AA19E30005EDBFB /* FontAwesome6Free.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB2E2AA19E30005EDBFB /* FontAwesome6Free.json */; };
+		AD56EC3A2AA19E30005EDBFB /* FontAwesome6Free_meta.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB2F2AA19E30005EDBFB /* FontAwesome6Free_meta.json */; };
+		AD56EC3B2AA19E30005EDBFB /* FontAwesome.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB302AA19E30005EDBFB /* FontAwesome.json */; };
+		AD56EC3C2AA19E30005EDBFB /* MaterialIcons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB312AA19E30005EDBFB /* MaterialIcons.json */; };
+		AD56EC3D2AA19E30005EDBFB /* FontAwesome6Pro.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB322AA19E30005EDBFB /* FontAwesome6Pro.json */; };
+		AD56EC3E2AA19E30005EDBFB /* FontAwesome6Pro_meta.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB332AA19E30005EDBFB /* FontAwesome6Pro_meta.json */; };
+		AD56EC3F2AA19E30005EDBFB /* Entypo.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB342AA19E30005EDBFB /* Entypo.json */; };
+		AD56EC402AA19E30005EDBFB /* SimpleLineIcons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB352AA19E30005EDBFB /* SimpleLineIcons.json */; };
+		AD56EC412AA19E30005EDBFB /* AntDesign.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB362AA19E30005EDBFB /* AntDesign.json */; };
+		AD56EC422AA19E30005EDBFB /* FontAwesome5Pro_meta.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB372AA19E30005EDBFB /* FontAwesome5Pro_meta.json */; };
+		AD56EC432AA19E30005EDBFB /* FontAwesome5Free.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB382AA19E30005EDBFB /* FontAwesome5Free.json */; };
+		AD56EC442AA19E30005EDBFB /* Feather.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB392AA19E30005EDBFB /* Feather.json */; };
+		AD56EC452AA19E30005EDBFB /* MaterialCommunityIcons.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB3A2AA19E30005EDBFB /* MaterialCommunityIcons.json */; };
+		AD56EC462AA19E30005EDBFB /* Foundation.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB3B2AA19E30005EDBFB /* Foundation.json */; };
+		AD56EC472AA19E30005EDBFB /* Zocial.json in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB3C2AA19E30005EDBFB /* Zocial.json */; };
+		AD56EC482AA19E30005EDBFB /* EvilIcons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB3D2AA19E30005EDBFB /* EvilIcons.js.flow */; };
+		AD56EC492AA19E30005EDBFB /* MaterialIcons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB3E2AA19E30005EDBFB /* MaterialIcons.js */; };
+		AD56EC4A2AA19E30005EDBFB /* Ionicons.js.flow in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB3F2AA19E30005EDBFB /* Ionicons.js.flow */; };
+		AD56EC4B2AA19E30005EDBFB /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB412AA19E30005EDBFB /* Fontisto.ttf */; };
+		AD56EC4C2AA19E30005EDBFB /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB422AA19E30005EDBFB /* Octicons.ttf */; };
+		AD56EC4D2AA19E30005EDBFB /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB432AA19E30005EDBFB /* Feather.ttf */; };
+		AD56EC4E2AA19E30005EDBFB /* FontAwesome6_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB442AA19E30005EDBFB /* FontAwesome6_Regular.ttf */; };
+		AD56EC4F2AA19E30005EDBFB /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB452AA19E30005EDBFB /* Entypo.ttf */; };
+		AD56EC502AA19E30005EDBFB /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB462AA19E30005EDBFB /* FontAwesome5_Brands.ttf */; };
+		AD56EC512AA19E30005EDBFB /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB472AA19E30005EDBFB /* MaterialCommunityIcons.ttf */; };
+		AD56EC522AA19E30005EDBFB /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB482AA19E30005EDBFB /* AntDesign.ttf */; };
+		AD56EC532AA19E30005EDBFB /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB492AA19E30005EDBFB /* Foundation.ttf */; };
+		AD56EC542AA19E30005EDBFB /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB4A2AA19E30005EDBFB /* Ionicons.ttf */; };
+		AD56EC552AA19E30005EDBFB /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB4B2AA19E30005EDBFB /* FontAwesome5_Solid.ttf */; };
+		AD56EC562AA19E30005EDBFB /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB4C2AA19E30005EDBFB /* FontAwesome5_Regular.ttf */; };
+		AD56EC572AA19E30005EDBFB /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB4D2AA19E30005EDBFB /* FontAwesome.ttf */; };
+		AD56EC582AA19E30005EDBFB /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB4E2AA19E30005EDBFB /* Zocial.ttf */; };
+		AD56EC592AA19E30005EDBFB /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB4F2AA19E30005EDBFB /* EvilIcons.ttf */; };
+		AD56EC5A2AA19E30005EDBFB /* FontAwesome6_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB502AA19E30005EDBFB /* FontAwesome6_Solid.ttf */; };
+		AD56EC5B2AA19E30005EDBFB /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB512AA19E30005EDBFB /* SimpleLineIcons.ttf */; };
+		AD56EC5C2AA19E30005EDBFB /* FontAwesome6_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB522AA19E30005EDBFB /* FontAwesome6_Brands.ttf */; };
+		AD56EC5D2AA19E30005EDBFB /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB532AA19E30005EDBFB /* MaterialIcons.ttf */; };
+		AD56EC5E2AA19E30005EDBFB /* FontAwesome6.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB542AA19E30005EDBFB /* FontAwesome6.js */; };
+		AD56EC5F2AA19E30005EDBFB /* Octicons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB552AA19E30005EDBFB /* Octicons.js */; };
+		AD56EC602AA19E30005EDBFB /* Fontisto.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB562AA19E30005EDBFB /* Fontisto.js */; };
+		AD56EC612AA19E30005EDBFB /* FontAwesome6Pro.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB572AA19E30005EDBFB /* FontAwesome6Pro.js */; };
+		AD56EC622AA19E30005EDBFB /* FONTAWESOME5.md in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB582AA19E30005EDBFB /* FONTAWESOME5.md */; };
+		AD56EC632AA19E30005EDBFB /* MaterialCommunityIcons.js in Resources */ = {isa = PBXBuildFile; fileRef = AD56EB592AA19E30005EDBFB /* MaterialCommunityIcons.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,6 +283,20 @@
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
 			remoteInfo = RNComponents;
+		};
+		AD56EB5C2AA19E30005EDBFB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AD56EAEF2AA19E30005EDBFB /* RNVectorIcons.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 5DBEB1501B18CEA900B34395;
+			remoteInfo = RNVectorIcons;
+		};
+		AD56EB5E2AA19E30005EDBFB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AD56EAEF2AA19E30005EDBFB /* RNVectorIcons.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = A39873CE1EA65EE60051E01A;
+			remoteInfo = "RNVectorIcons-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -43,6 +317,268 @@
 		5DCACB8F33CDC322A6C60F78 /* libPods-RNComponents.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNComponents.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = RNComponents/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-RNComponents-RNComponentsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNComponents-RNComponentsTests.release.xcconfig"; path = "Target Support Files/Pods-RNComponents-RNComponentsTests/Pods-RNComponents-RNComponentsTests.release.xcconfig"; sourceTree = "<group>"; };
+		AD56EA282AA19E30005EDBFB /* FontAwesome5.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = FontAwesome5.js; sourceTree = "<group>"; };
+		AD56EA292AA19E30005EDBFB /* Zocial.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Zocial.js.flow; sourceTree = "<group>"; };
+		AD56EA2A2AA19E30005EDBFB /* FontAwesome.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FontAwesome.js.flow; sourceTree = "<group>"; };
+		AD56EA2B2AA19E30005EDBFB /* Ionicons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Ionicons.js; sourceTree = "<group>"; };
+		AD56EA2C2AA19E30005EDBFB /* FontAwesome5Pro.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FontAwesome5Pro.js.flow; sourceTree = "<group>"; };
+		AD56EA2D2AA19E30005EDBFB /* FONTAWESOME6.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = FONTAWESOME6.md; sourceTree = "<group>"; };
+		AD56EA2E2AA19E30005EDBFB /* Fontisto.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Fontisto.js.flow; sourceTree = "<group>"; };
+		AD56EA2F2AA19E30005EDBFB /* Entypo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Entypo.js; sourceTree = "<group>"; };
+		AD56EA302AA19E30005EDBFB /* SimpleLineIcons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = SimpleLineIcons.js; sourceTree = "<group>"; };
+		AD56EA312AA19E30005EDBFB /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		AD56EA322AA19E30005EDBFB /* MaterialCommunityIcons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MaterialCommunityIcons.js.flow; sourceTree = "<group>"; };
+		AD56EA332AA19E30005EDBFB /* Foundation.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Foundation.js; sourceTree = "<group>"; };
+		AD56EA352AA19E30005EDBFB /* generate-fontawesome5-metadata.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "generate-fontawesome5-metadata.js"; sourceTree = "<group>"; };
+		AD56EA362AA19E30005EDBFB /* fa-upgrade.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "fa-upgrade.sh"; sourceTree = "<group>"; };
+		AD56EA372AA19E30005EDBFB /* generate-flow.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "generate-flow.js"; sourceTree = "<group>"; };
+		AD56EA382AA19E30005EDBFB /* fa5-upgrade.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "fa5-upgrade.sh"; sourceTree = "<group>"; };
+		AD56EA392AA19E30005EDBFB /* generate-icon.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "generate-icon.js"; sourceTree = "<group>"; };
+		AD56EA3A2AA19E30005EDBFB /* add-font-assets.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "add-font-assets.js"; sourceTree = "<group>"; };
+		AD56EA3B2AA19E30005EDBFB /* generate-fontawesome6-metadata.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "generate-fontawesome6-metadata.js"; sourceTree = "<group>"; };
+		AD56EA3C2AA19E30005EDBFB /* generate-material-icons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "generate-material-icons.js"; sourceTree = "<group>"; };
+		AD56EA3D2AA19E30005EDBFB /* fa6-upgrade.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "fa6-upgrade.sh"; sourceTree = "<group>"; };
+		AD56EA3E2AA19E30005EDBFB /* generate-ionicons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "generate-ionicons.js"; sourceTree = "<group>"; };
+		AD56EA402AA19E30005EDBFB /* RNVectorIconsManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNVectorIconsManager.m; sourceTree = "<group>"; };
+		AD56EA412AA19E30005EDBFB /* RNVectorIconsManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNVectorIconsManager.h; sourceTree = "<group>"; };
+		AD56EA432AA19E30005EDBFB /* FontAwesome5.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = FontAwesome5.js; sourceTree = "<group>"; };
+		AD56EA442AA19E30005EDBFB /* Zocial.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Zocial.js.flow; sourceTree = "<group>"; };
+		AD56EA452AA19E30005EDBFB /* FontAwesome.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FontAwesome.js.flow; sourceTree = "<group>"; };
+		AD56EA462AA19E30005EDBFB /* Ionicons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Ionicons.js; sourceTree = "<group>"; };
+		AD56EA472AA19E30005EDBFB /* FontAwesome5Pro.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FontAwesome5Pro.js.flow; sourceTree = "<group>"; };
+		AD56EA482AA19E30005EDBFB /* Fontisto.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Fontisto.js.flow; sourceTree = "<group>"; };
+		AD56EA492AA19E30005EDBFB /* Entypo.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Entypo.js; sourceTree = "<group>"; };
+		AD56EA4A2AA19E30005EDBFB /* SimpleLineIcons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = SimpleLineIcons.js; sourceTree = "<group>"; };
+		AD56EA4B2AA19E30005EDBFB /* MaterialCommunityIcons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MaterialCommunityIcons.js.flow; sourceTree = "<group>"; };
+		AD56EA4C2AA19E30005EDBFB /* Foundation.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Foundation.js; sourceTree = "<group>"; };
+		AD56EA4D2AA19E30005EDBFB /* MaterialIcons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MaterialIcons.js.flow; sourceTree = "<group>"; };
+		AD56EA4E2AA19E30005EDBFB /* Entypo.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Entypo.js.flow; sourceTree = "<group>"; };
+		AD56EA4F2AA19E30005EDBFB /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		AD56EA502AA19E30005EDBFB /* SimpleLineIcons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SimpleLineIcons.js.flow; sourceTree = "<group>"; };
+		AD56EA512AA19E30005EDBFB /* Zocial.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Zocial.js; sourceTree = "<group>"; };
+		AD56EA522AA19E30005EDBFB /* FontAwesome.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = FontAwesome.js; sourceTree = "<group>"; };
+		AD56EA532AA19E30005EDBFB /* EvilIcons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = EvilIcons.js; sourceTree = "<group>"; };
+		AD56EA542AA19E30005EDBFB /* index.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = index.js.flow; sourceTree = "<group>"; };
+		AD56EA552AA19E30005EDBFB /* AntDesign.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = AntDesign.js; sourceTree = "<group>"; };
+		AD56EA562AA19E30005EDBFB /* AntDesign.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AntDesign.js.flow; sourceTree = "<group>"; };
+		AD56EA572AA19E30005EDBFB /* RNIMigration.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = RNIMigration.js; sourceTree = "<group>"; };
+		AD56EA582AA19E30005EDBFB /* Foundation.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Foundation.js.flow; sourceTree = "<group>"; };
+		AD56EA592AA19E30005EDBFB /* FontAwesome5.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FontAwesome5.js.flow; sourceTree = "<group>"; };
+		AD56EA5A2AA19E30005EDBFB /* Octicons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Octicons.js.flow; sourceTree = "<group>"; };
+		AD56EA5C2AA19E30005EDBFB /* icon-button.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "icon-button.js"; sourceTree = "<group>"; };
+		AD56EA5D2AA19E30005EDBFB /* create-icon-source-cache.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-source-cache.js"; sourceTree = "<group>"; };
+		AD56EA5E2AA19E30005EDBFB /* create-multi-style-icon-set.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-multi-style-icon-set.js"; sourceTree = "<group>"; };
+		AD56EA5F2AA19E30005EDBFB /* ensure-native-module-available.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "ensure-native-module-available.js"; sourceTree = "<group>"; };
+		AD56EA602AA19E30005EDBFB /* create-icon-set-from-fontawesome6.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-set-from-fontawesome6.js"; sourceTree = "<group>"; };
+		AD56EA612AA19E30005EDBFB /* NativeRNVectorIcons.web.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = NativeRNVectorIcons.web.js; sourceTree = "<group>"; };
+		AD56EA622AA19E30005EDBFB /* create-icon-set.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-set.js"; sourceTree = "<group>"; };
+		AD56EA632AA19E30005EDBFB /* object-utils.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "object-utils.js"; sourceTree = "<group>"; };
+		AD56EA642AA19E30005EDBFB /* create-icon-set-from-fontawesome5.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-set-from-fontawesome5.js"; sourceTree = "<group>"; };
+		AD56EA652AA19E30005EDBFB /* NativeRNVectorIcons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = NativeRNVectorIcons.js; sourceTree = "<group>"; };
+		AD56EA662AA19E30005EDBFB /* create-icon-set-from-icomoon.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-set-from-icomoon.js"; sourceTree = "<group>"; };
+		AD56EA672AA19E30005EDBFB /* create-icon-set-from-fontello.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-set-from-fontello.js"; sourceTree = "<group>"; };
+		AD56EA682AA19E30005EDBFB /* generate-icon-set-from-css.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "generate-icon-set-from-css.js"; sourceTree = "<group>"; };
+		AD56EA692AA19E30005EDBFB /* FontAwesome5Pro.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = FontAwesome5Pro.js; sourceTree = "<group>"; };
+		AD56EA6A2AA19E30005EDBFB /* Feather.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Feather.js; sourceTree = "<group>"; };
+		AD56EA6B2AA19E30005EDBFB /* Feather.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Feather.js.flow; sourceTree = "<group>"; };
+		AD56EA6D2AA19E30005EDBFB /* Ionicons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Ionicons.json; sourceTree = "<group>"; };
+		AD56EA6E2AA19E30005EDBFB /* FontAwesome5Pro.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome5Pro.json; sourceTree = "<group>"; };
+		AD56EA6F2AA19E30005EDBFB /* Fontisto.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Fontisto.json; sourceTree = "<group>"; };
+		AD56EA702AA19E30005EDBFB /* EvilIcons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EvilIcons.json; sourceTree = "<group>"; };
+		AD56EA712AA19E30005EDBFB /* Octicons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Octicons.json; sourceTree = "<group>"; };
+		AD56EA722AA19E30005EDBFB /* FontAwesome5Free_meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome5Free_meta.json; sourceTree = "<group>"; };
+		AD56EA732AA19E30005EDBFB /* FontAwesome6Free.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome6Free.json; sourceTree = "<group>"; };
+		AD56EA742AA19E30005EDBFB /* FontAwesome6Free_meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome6Free_meta.json; sourceTree = "<group>"; };
+		AD56EA752AA19E30005EDBFB /* FontAwesome.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome.json; sourceTree = "<group>"; };
+		AD56EA762AA19E30005EDBFB /* MaterialIcons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MaterialIcons.json; sourceTree = "<group>"; };
+		AD56EA772AA19E30005EDBFB /* FontAwesome6Pro.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome6Pro.json; sourceTree = "<group>"; };
+		AD56EA782AA19E30005EDBFB /* FontAwesome6Pro_meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome6Pro_meta.json; sourceTree = "<group>"; };
+		AD56EA792AA19E30005EDBFB /* Entypo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Entypo.json; sourceTree = "<group>"; };
+		AD56EA7A2AA19E30005EDBFB /* SimpleLineIcons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SimpleLineIcons.json; sourceTree = "<group>"; };
+		AD56EA7B2AA19E30005EDBFB /* AntDesign.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AntDesign.json; sourceTree = "<group>"; };
+		AD56EA7C2AA19E30005EDBFB /* FontAwesome5Pro_meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome5Pro_meta.json; sourceTree = "<group>"; };
+		AD56EA7D2AA19E30005EDBFB /* FontAwesome5Free.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome5Free.json; sourceTree = "<group>"; };
+		AD56EA7E2AA19E30005EDBFB /* Feather.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Feather.json; sourceTree = "<group>"; };
+		AD56EA7F2AA19E30005EDBFB /* MaterialCommunityIcons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MaterialCommunityIcons.json; sourceTree = "<group>"; };
+		AD56EA802AA19E30005EDBFB /* Foundation.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Foundation.json; sourceTree = "<group>"; };
+		AD56EA812AA19E30005EDBFB /* Zocial.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Zocial.json; sourceTree = "<group>"; };
+		AD56EA822AA19E30005EDBFB /* EvilIcons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EvilIcons.js.flow; sourceTree = "<group>"; };
+		AD56EA832AA19E30005EDBFB /* MaterialIcons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = MaterialIcons.js; sourceTree = "<group>"; };
+		AD56EA842AA19E30005EDBFB /* Ionicons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Ionicons.js.flow; sourceTree = "<group>"; };
+		AD56EA852AA19E30005EDBFB /* FontAwesome6.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = FontAwesome6.js; sourceTree = "<group>"; };
+		AD56EA862AA19E30005EDBFB /* Octicons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Octicons.js; sourceTree = "<group>"; };
+		AD56EA872AA19E30005EDBFB /* Fontisto.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Fontisto.js; sourceTree = "<group>"; };
+		AD56EA882AA19E30005EDBFB /* FontAwesome6Pro.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = FontAwesome6Pro.js; sourceTree = "<group>"; };
+		AD56EA892AA19E30005EDBFB /* MaterialCommunityIcons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = MaterialCommunityIcons.js; sourceTree = "<group>"; };
+		AD56EA8A2AA19E30005EDBFB /* MaterialIcons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MaterialIcons.js.flow; sourceTree = "<group>"; };
+		AD56EA8D2AA19E30005EDBFB /* CHANGELOG.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
+		AD56EA8E2AA19E30005EDBFB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AD56EA8F2AA19E30005EDBFB /* package.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
+		AD56EA912AA19E30005EDBFB /* index.cjs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = index.cjs; sourceTree = "<group>"; };
+		AD56EA932AA19E30005EDBFB /* string-utils.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "string-utils.js"; sourceTree = "<group>"; };
+		AD56EA942AA19E30005EDBFB /* tokenize-arg-string.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "tokenize-arg-string.js"; sourceTree = "<group>"; };
+		AD56EA952AA19E30005EDBFB /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		AD56EA962AA19E30005EDBFB /* yargs-parser.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "yargs-parser.js"; sourceTree = "<group>"; };
+		AD56EA972AA19E30005EDBFB /* yargs-parser-types.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "yargs-parser-types.js"; sourceTree = "<group>"; };
+		AD56EA982AA19E30005EDBFB /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		AD56EA992AA19E30005EDBFB /* browser.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = browser.js; sourceTree = "<group>"; };
+		AD56EA9B2AA19E30005EDBFB /* CHANGELOG.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
+		AD56EA9C2AA19E30005EDBFB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AD56EA9D2AA19E30005EDBFB /* package.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
+		AD56EA9E2AA19E30005EDBFB /* index.mjs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = index.mjs; sourceTree = "<group>"; };
+		AD56EAA02AA19E30005EDBFB /* index.cjs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = index.cjs; sourceTree = "<group>"; };
+		AD56EAA22AA19E30005EDBFB /* string-utils.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "string-utils.js"; sourceTree = "<group>"; };
+		AD56EAA32AA19E30005EDBFB /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		AD56EAA42AA19E30005EDBFB /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		AD56EAA72AA19E30005EDBFB /* tr.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tr.json; sourceTree = "<group>"; };
+		AD56EAA82AA19E30005EDBFB /* hu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hu.json; sourceTree = "<group>"; };
+		AD56EAA92AA19E30005EDBFB /* nl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = nl.json; sourceTree = "<group>"; };
+		AD56EAAA2AA19E30005EDBFB /* pirate.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pirate.json; sourceTree = "<group>"; };
+		AD56EAAB2AA19E30005EDBFB /* zh_CN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = zh_CN.json; sourceTree = "<group>"; };
+		AD56EAAC2AA19E30005EDBFB /* ja.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ja.json; sourceTree = "<group>"; };
+		AD56EAAD2AA19E30005EDBFB /* de.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = de.json; sourceTree = "<group>"; };
+		AD56EAAE2AA19E30005EDBFB /* ru.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ru.json; sourceTree = "<group>"; };
+		AD56EAAF2AA19E30005EDBFB /* pl.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pl.json; sourceTree = "<group>"; };
+		AD56EAB02AA19E30005EDBFB /* fi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = fi.json; sourceTree = "<group>"; };
+		AD56EAB12AA19E30005EDBFB /* pt.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pt.json; sourceTree = "<group>"; };
+		AD56EAB22AA19E30005EDBFB /* be.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = be.json; sourceTree = "<group>"; };
+		AD56EAB32AA19E30005EDBFB /* en.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = en.json; sourceTree = "<group>"; };
+		AD56EAB42AA19E30005EDBFB /* it.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = it.json; sourceTree = "<group>"; };
+		AD56EAB52AA19E30005EDBFB /* fr.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = fr.json; sourceTree = "<group>"; };
+		AD56EAB62AA19E30005EDBFB /* hi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hi.json; sourceTree = "<group>"; };
+		AD56EAB72AA19E30005EDBFB /* ko.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ko.json; sourceTree = "<group>"; };
+		AD56EAB82AA19E30005EDBFB /* id.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = id.json; sourceTree = "<group>"; };
+		AD56EAB92AA19E30005EDBFB /* pt_BR.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pt_BR.json; sourceTree = "<group>"; };
+		AD56EABA2AA19E30005EDBFB /* zh_TW.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = zh_TW.json; sourceTree = "<group>"; };
+		AD56EABB2AA19E30005EDBFB /* th.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = th.json; sourceTree = "<group>"; };
+		AD56EABC2AA19E30005EDBFB /* nn.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = nn.json; sourceTree = "<group>"; };
+		AD56EABD2AA19E30005EDBFB /* es.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = es.json; sourceTree = "<group>"; };
+		AD56EABE2AA19E30005EDBFB /* nb.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = nb.json; sourceTree = "<group>"; };
+		AD56EABF2AA19E30005EDBFB /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		AD56EAC02AA19E30005EDBFB /* CHANGELOG.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
+		AD56EAC12AA19E30005EDBFB /* browser.mjs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = browser.mjs; sourceTree = "<group>"; };
+		AD56EAC22AA19E30005EDBFB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AD56EAC32AA19E30005EDBFB /* package.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
+		AD56EAC42AA19E30005EDBFB /* index.cjs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = index.cjs; sourceTree = "<group>"; };
+		AD56EAC52AA19E30005EDBFB /* index.mjs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = index.mjs; sourceTree = "<group>"; };
+		AD56EAC82AA19E30005EDBFB /* browser.mjs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = browser.mjs; sourceTree = "<group>"; };
+		AD56EAC92AA19E30005EDBFB /* esm.mjs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = esm.mjs; sourceTree = "<group>"; };
+		AD56EACA2AA19E30005EDBFB /* yargs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = yargs; sourceTree = "<group>"; };
+		AD56EACC2AA19E30005EDBFB /* index.cjs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = index.cjs; sourceTree = "<group>"; };
+		AD56EACE2AA19E30005EDBFB /* argsert.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = argsert.js; sourceTree = "<group>"; };
+		AD56EACF2AA19E30005EDBFB /* yerror.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = yerror.js; sourceTree = "<group>"; };
+		AD56EAD12AA19E30005EDBFB /* yargs-parser-types.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "yargs-parser-types.js"; sourceTree = "<group>"; };
+		AD56EAD22AA19E30005EDBFB /* common-types.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "common-types.js"; sourceTree = "<group>"; };
+		AD56EAD32AA19E30005EDBFB /* parse-command.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "parse-command.js"; sourceTree = "<group>"; };
+		AD56EAD42AA19E30005EDBFB /* completion.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = completion.js; sourceTree = "<group>"; };
+		AD56EAD62AA19E30005EDBFB /* apply-extends.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "apply-extends.js"; sourceTree = "<group>"; };
+		AD56EAD72AA19E30005EDBFB /* is-promise.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "is-promise.js"; sourceTree = "<group>"; };
+		AD56EAD82AA19E30005EDBFB /* set-blocking.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "set-blocking.js"; sourceTree = "<group>"; };
+		AD56EAD92AA19E30005EDBFB /* which-module.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "which-module.js"; sourceTree = "<group>"; };
+		AD56EADA2AA19E30005EDBFB /* obj-filter.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "obj-filter.js"; sourceTree = "<group>"; };
+		AD56EADB2AA19E30005EDBFB /* process-argv.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "process-argv.js"; sourceTree = "<group>"; };
+		AD56EADC2AA19E30005EDBFB /* levenshtein.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = levenshtein.js; sourceTree = "<group>"; };
+		AD56EADD2AA19E30005EDBFB /* command.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = command.js; sourceTree = "<group>"; };
+		AD56EADE2AA19E30005EDBFB /* validation.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = validation.js; sourceTree = "<group>"; };
+		AD56EADF2AA19E30005EDBFB /* middleware.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = middleware.js; sourceTree = "<group>"; };
+		AD56EAE02AA19E30005EDBFB /* usage.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = usage.js; sourceTree = "<group>"; };
+		AD56EAE12AA19E30005EDBFB /* completion-templates.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "completion-templates.js"; sourceTree = "<group>"; };
+		AD56EAE22AA19E30005EDBFB /* yargs-factory.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "yargs-factory.js"; sourceTree = "<group>"; };
+		AD56EAE42AA19E30005EDBFB /* helpers.mjs */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = helpers.mjs; sourceTree = "<group>"; };
+		AD56EAE52AA19E30005EDBFB /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		AD56EAE62AA19E30005EDBFB /* package.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
+		AD56EAE72AA19E30005EDBFB /* Entypo.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Entypo.js.flow; sourceTree = "<group>"; };
+		AD56EAE82AA19E30005EDBFB /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
+		AD56EAE92AA19E30005EDBFB /* SimpleLineIcons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SimpleLineIcons.js.flow; sourceTree = "<group>"; };
+		AD56EAEA2AA19E30005EDBFB /* Zocial.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Zocial.js; sourceTree = "<group>"; };
+		AD56EAEB2AA19E30005EDBFB /* FontAwesome.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = FontAwesome.js; sourceTree = "<group>"; };
+		AD56EAEC2AA19E30005EDBFB /* RNVectorIcons.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RNVectorIcons.podspec; sourceTree = "<group>"; };
+		AD56EAED2AA19E30005EDBFB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		AD56EAEE2AA19E30005EDBFB /* EvilIcons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = EvilIcons.js; sourceTree = "<group>"; };
+		AD56EAEF2AA19E30005EDBFB /* RNVectorIcons.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = RNVectorIcons.xcodeproj; sourceTree = "<group>"; };
+		AD56EAF22AA19E30005EDBFB /* index.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = index.js.flow; sourceTree = "<group>"; };
+		AD56EAF32AA19E30005EDBFB /* AntDesign.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = AntDesign.js; sourceTree = "<group>"; };
+		AD56EAF42AA19E30005EDBFB /* package.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
+		AD56EAF52AA19E30005EDBFB /* AntDesign.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AntDesign.js.flow; sourceTree = "<group>"; };
+		AD56EAF62AA19E30005EDBFB /* CONTRIBUTING.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = CONTRIBUTING.md; sourceTree = "<group>"; };
+		AD56EAF72AA19E30005EDBFB /* RNIMigration.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = RNIMigration.js; sourceTree = "<group>"; };
+		AD56EAF82AA19E30005EDBFB /* Foundation.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Foundation.js.flow; sourceTree = "<group>"; };
+		AD56EAFA2AA19E30005EDBFB /* build.gradle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = build.gradle; sourceTree = "<group>"; };
+		AD56EB012AA19E30005EDBFB /* VectorIconsModule.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = VectorIconsModule.java; sourceTree = "<group>"; };
+		AD56EB072AA19E30005EDBFB /* VectorIconsModule.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = VectorIconsModule.java; sourceTree = "<group>"; };
+		AD56EB092AA19E30005EDBFB /* AndroidManifest.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = AndroidManifest.xml; sourceTree = "<group>"; };
+		AD56EB0E2AA19E30005EDBFB /* VectorIconsPackage.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = VectorIconsPackage.java; sourceTree = "<group>"; };
+		AD56EB0F2AA19E30005EDBFB /* VectorIconsModuleImpl.java */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.java; path = VectorIconsModuleImpl.java; sourceTree = "<group>"; };
+		AD56EB102AA19E30005EDBFB /* FontAwesome5.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FontAwesome5.js.flow; sourceTree = "<group>"; };
+		AD56EB112AA19E30005EDBFB /* Octicons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Octicons.js.flow; sourceTree = "<group>"; };
+		AD56EB122AA19E30005EDBFB /* fonts.gradle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fonts.gradle; sourceTree = "<group>"; };
+		AD56EB142AA19E30005EDBFB /* icon-button.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "icon-button.js"; sourceTree = "<group>"; };
+		AD56EB152AA19E30005EDBFB /* create-icon-source-cache.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-source-cache.js"; sourceTree = "<group>"; };
+		AD56EB162AA19E30005EDBFB /* create-multi-style-icon-set.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-multi-style-icon-set.js"; sourceTree = "<group>"; };
+		AD56EB172AA19E30005EDBFB /* ensure-native-module-available.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "ensure-native-module-available.js"; sourceTree = "<group>"; };
+		AD56EB182AA19E30005EDBFB /* create-icon-set-from-fontawesome6.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-set-from-fontawesome6.js"; sourceTree = "<group>"; };
+		AD56EB192AA19E30005EDBFB /* NativeRNVectorIcons.web.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = NativeRNVectorIcons.web.js; sourceTree = "<group>"; };
+		AD56EB1A2AA19E30005EDBFB /* create-icon-set.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-set.js"; sourceTree = "<group>"; };
+		AD56EB1B2AA19E30005EDBFB /* object-utils.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "object-utils.js"; sourceTree = "<group>"; };
+		AD56EB1C2AA19E30005EDBFB /* create-icon-set-from-fontawesome5.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-set-from-fontawesome5.js"; sourceTree = "<group>"; };
+		AD56EB1D2AA19E30005EDBFB /* NativeRNVectorIcons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = NativeRNVectorIcons.js; sourceTree = "<group>"; };
+		AD56EB1E2AA19E30005EDBFB /* create-icon-set-from-icomoon.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-set-from-icomoon.js"; sourceTree = "<group>"; };
+		AD56EB1F2AA19E30005EDBFB /* create-icon-set-from-fontello.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "create-icon-set-from-fontello.js"; sourceTree = "<group>"; };
+		AD56EB202AA19E30005EDBFB /* generate-icon-set-from-css.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = "generate-icon-set-from-css.js"; sourceTree = "<group>"; };
+		AD56EB212AA19E30005EDBFB /* FontAwesome5Pro.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = FontAwesome5Pro.js; sourceTree = "<group>"; };
+		AD56EB232AA19E30005EDBFB /* bundled-icon-set.tpl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "bundled-icon-set.tpl"; sourceTree = "<group>"; };
+		AD56EB242AA19E30005EDBFB /* separated-icon-set.tpl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "separated-icon-set.tpl"; sourceTree = "<group>"; };
+		AD56EB252AA19E30005EDBFB /* Feather.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Feather.js; sourceTree = "<group>"; };
+		AD56EB262AA19E30005EDBFB /* Feather.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Feather.js.flow; sourceTree = "<group>"; };
+		AD56EB282AA19E30005EDBFB /* Ionicons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Ionicons.json; sourceTree = "<group>"; };
+		AD56EB292AA19E30005EDBFB /* FontAwesome5Pro.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome5Pro.json; sourceTree = "<group>"; };
+		AD56EB2A2AA19E30005EDBFB /* Fontisto.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Fontisto.json; sourceTree = "<group>"; };
+		AD56EB2B2AA19E30005EDBFB /* EvilIcons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EvilIcons.json; sourceTree = "<group>"; };
+		AD56EB2C2AA19E30005EDBFB /* Octicons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Octicons.json; sourceTree = "<group>"; };
+		AD56EB2D2AA19E30005EDBFB /* FontAwesome5Free_meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome5Free_meta.json; sourceTree = "<group>"; };
+		AD56EB2E2AA19E30005EDBFB /* FontAwesome6Free.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome6Free.json; sourceTree = "<group>"; };
+		AD56EB2F2AA19E30005EDBFB /* FontAwesome6Free_meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome6Free_meta.json; sourceTree = "<group>"; };
+		AD56EB302AA19E30005EDBFB /* FontAwesome.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome.json; sourceTree = "<group>"; };
+		AD56EB312AA19E30005EDBFB /* MaterialIcons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MaterialIcons.json; sourceTree = "<group>"; };
+		AD56EB322AA19E30005EDBFB /* FontAwesome6Pro.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome6Pro.json; sourceTree = "<group>"; };
+		AD56EB332AA19E30005EDBFB /* FontAwesome6Pro_meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome6Pro_meta.json; sourceTree = "<group>"; };
+		AD56EB342AA19E30005EDBFB /* Entypo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Entypo.json; sourceTree = "<group>"; };
+		AD56EB352AA19E30005EDBFB /* SimpleLineIcons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SimpleLineIcons.json; sourceTree = "<group>"; };
+		AD56EB362AA19E30005EDBFB /* AntDesign.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AntDesign.json; sourceTree = "<group>"; };
+		AD56EB372AA19E30005EDBFB /* FontAwesome5Pro_meta.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome5Pro_meta.json; sourceTree = "<group>"; };
+		AD56EB382AA19E30005EDBFB /* FontAwesome5Free.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = FontAwesome5Free.json; sourceTree = "<group>"; };
+		AD56EB392AA19E30005EDBFB /* Feather.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Feather.json; sourceTree = "<group>"; };
+		AD56EB3A2AA19E30005EDBFB /* MaterialCommunityIcons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MaterialCommunityIcons.json; sourceTree = "<group>"; };
+		AD56EB3B2AA19E30005EDBFB /* Foundation.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Foundation.json; sourceTree = "<group>"; };
+		AD56EB3C2AA19E30005EDBFB /* Zocial.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Zocial.json; sourceTree = "<group>"; };
+		AD56EB3D2AA19E30005EDBFB /* EvilIcons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EvilIcons.js.flow; sourceTree = "<group>"; };
+		AD56EB3E2AA19E30005EDBFB /* MaterialIcons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = MaterialIcons.js; sourceTree = "<group>"; };
+		AD56EB3F2AA19E30005EDBFB /* Ionicons.js.flow */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Ionicons.js.flow; sourceTree = "<group>"; };
+		AD56EB412AA19E30005EDBFB /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		AD56EB422AA19E30005EDBFB /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		AD56EB432AA19E30005EDBFB /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		AD56EB442AA19E30005EDBFB /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Regular.ttf; sourceTree = "<group>"; };
+		AD56EB452AA19E30005EDBFB /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		AD56EB462AA19E30005EDBFB /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		AD56EB472AA19E30005EDBFB /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		AD56EB482AA19E30005EDBFB /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		AD56EB492AA19E30005EDBFB /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		AD56EB4A2AA19E30005EDBFB /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		AD56EB4B2AA19E30005EDBFB /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		AD56EB4C2AA19E30005EDBFB /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		AD56EB4D2AA19E30005EDBFB /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		AD56EB4E2AA19E30005EDBFB /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
+		AD56EB4F2AA19E30005EDBFB /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		AD56EB502AA19E30005EDBFB /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Solid.ttf; sourceTree = "<group>"; };
+		AD56EB512AA19E30005EDBFB /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		AD56EB522AA19E30005EDBFB /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Brands.ttf; sourceTree = "<group>"; };
+		AD56EB532AA19E30005EDBFB /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		AD56EB542AA19E30005EDBFB /* FontAwesome6.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = FontAwesome6.js; sourceTree = "<group>"; };
+		AD56EB552AA19E30005EDBFB /* Octicons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Octicons.js; sourceTree = "<group>"; };
+		AD56EB562AA19E30005EDBFB /* Fontisto.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = Fontisto.js; sourceTree = "<group>"; };
+		AD56EB572AA19E30005EDBFB /* FontAwesome6Pro.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = FontAwesome6Pro.js; sourceTree = "<group>"; };
+		AD56EB582AA19E30005EDBFB /* FONTAWESOME5.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = FONTAWESOME5.md; sourceTree = "<group>"; };
+		AD56EB592AA19E30005EDBFB /* MaterialCommunityIcons.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = MaterialCommunityIcons.js; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -86,6 +622,7 @@
 		13B07FAE1A68108700A75B9A /* RNComponents */ = {
 			isa = PBXGroup;
 			children = (
+				AD56EA272AA19E2F005EDBFB /* react-native-vector-icons */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -135,6 +672,621 @@
 				00E356EE1AD99517003FC87E /* RNComponentsTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		AD56EA272AA19E2F005EDBFB /* react-native-vector-icons */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EA282AA19E30005EDBFB /* FontAwesome5.js */,
+				AD56EA292AA19E30005EDBFB /* Zocial.js.flow */,
+				AD56EA2A2AA19E30005EDBFB /* FontAwesome.js.flow */,
+				AD56EA2B2AA19E30005EDBFB /* Ionicons.js */,
+				AD56EA2C2AA19E30005EDBFB /* FontAwesome5Pro.js.flow */,
+				AD56EA2D2AA19E30005EDBFB /* FONTAWESOME6.md */,
+				AD56EA2E2AA19E30005EDBFB /* Fontisto.js.flow */,
+				AD56EA2F2AA19E30005EDBFB /* Entypo.js */,
+				AD56EA302AA19E30005EDBFB /* SimpleLineIcons.js */,
+				AD56EA312AA19E30005EDBFB /* LICENSE */,
+				AD56EA322AA19E30005EDBFB /* MaterialCommunityIcons.js.flow */,
+				AD56EA332AA19E30005EDBFB /* Foundation.js */,
+				AD56EA342AA19E30005EDBFB /* bin */,
+				AD56EA3F2AA19E30005EDBFB /* RNVectorIconsManager */,
+				AD56EA422AA19E30005EDBFB /* dist */,
+				AD56EA8A2AA19E30005EDBFB /* MaterialIcons.js.flow */,
+				AD56EA8B2AA19E30005EDBFB /* node_modules */,
+				AD56EAE72AA19E30005EDBFB /* Entypo.js.flow */,
+				AD56EAE82AA19E30005EDBFB /* index.js */,
+				AD56EAE92AA19E30005EDBFB /* SimpleLineIcons.js.flow */,
+				AD56EAEA2AA19E30005EDBFB /* Zocial.js */,
+				AD56EAEB2AA19E30005EDBFB /* FontAwesome.js */,
+				AD56EAEC2AA19E30005EDBFB /* RNVectorIcons.podspec */,
+				AD56EAED2AA19E30005EDBFB /* README.md */,
+				AD56EAEE2AA19E30005EDBFB /* EvilIcons.js */,
+				AD56EAEF2AA19E30005EDBFB /* RNVectorIcons.xcodeproj */,
+				AD56EAF22AA19E30005EDBFB /* index.js.flow */,
+				AD56EAF32AA19E30005EDBFB /* AntDesign.js */,
+				AD56EAF42AA19E30005EDBFB /* package.json */,
+				AD56EAF52AA19E30005EDBFB /* AntDesign.js.flow */,
+				AD56EAF62AA19E30005EDBFB /* CONTRIBUTING.md */,
+				AD56EAF72AA19E30005EDBFB /* RNIMigration.js */,
+				AD56EAF82AA19E30005EDBFB /* Foundation.js.flow */,
+				AD56EAF92AA19E30005EDBFB /* android */,
+				AD56EB102AA19E30005EDBFB /* FontAwesome5.js.flow */,
+				AD56EB112AA19E30005EDBFB /* Octicons.js.flow */,
+				AD56EB122AA19E30005EDBFB /* fonts.gradle */,
+				AD56EB132AA19E30005EDBFB /* lib */,
+				AD56EB212AA19E30005EDBFB /* FontAwesome5Pro.js */,
+				AD56EB222AA19E30005EDBFB /* templates */,
+				AD56EB252AA19E30005EDBFB /* Feather.js */,
+				AD56EB262AA19E30005EDBFB /* Feather.js.flow */,
+				AD56EB272AA19E30005EDBFB /* glyphmaps */,
+				AD56EB3D2AA19E30005EDBFB /* EvilIcons.js.flow */,
+				AD56EB3E2AA19E30005EDBFB /* MaterialIcons.js */,
+				AD56EB3F2AA19E30005EDBFB /* Ionicons.js.flow */,
+				AD56EB402AA19E30005EDBFB /* Fonts */,
+				AD56EB542AA19E30005EDBFB /* FontAwesome6.js */,
+				AD56EB552AA19E30005EDBFB /* Octicons.js */,
+				AD56EB562AA19E30005EDBFB /* Fontisto.js */,
+				AD56EB572AA19E30005EDBFB /* FontAwesome6Pro.js */,
+				AD56EB582AA19E30005EDBFB /* FONTAWESOME5.md */,
+				AD56EB592AA19E30005EDBFB /* MaterialCommunityIcons.js */,
+			);
+			name = "react-native-vector-icons";
+			path = "../node_modules/react-native-vector-icons";
+			sourceTree = "<group>";
+		};
+		AD56EA342AA19E30005EDBFB /* bin */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EA352AA19E30005EDBFB /* generate-fontawesome5-metadata.js */,
+				AD56EA362AA19E30005EDBFB /* fa-upgrade.sh */,
+				AD56EA372AA19E30005EDBFB /* generate-flow.js */,
+				AD56EA382AA19E30005EDBFB /* fa5-upgrade.sh */,
+				AD56EA392AA19E30005EDBFB /* generate-icon.js */,
+				AD56EA3A2AA19E30005EDBFB /* add-font-assets.js */,
+				AD56EA3B2AA19E30005EDBFB /* generate-fontawesome6-metadata.js */,
+				AD56EA3C2AA19E30005EDBFB /* generate-material-icons.js */,
+				AD56EA3D2AA19E30005EDBFB /* fa6-upgrade.sh */,
+				AD56EA3E2AA19E30005EDBFB /* generate-ionicons.js */,
+			);
+			path = bin;
+			sourceTree = "<group>";
+		};
+		AD56EA3F2AA19E30005EDBFB /* RNVectorIconsManager */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EA402AA19E30005EDBFB /* RNVectorIconsManager.m */,
+				AD56EA412AA19E30005EDBFB /* RNVectorIconsManager.h */,
+			);
+			path = RNVectorIconsManager;
+			sourceTree = "<group>";
+		};
+		AD56EA422AA19E30005EDBFB /* dist */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EA432AA19E30005EDBFB /* FontAwesome5.js */,
+				AD56EA442AA19E30005EDBFB /* Zocial.js.flow */,
+				AD56EA452AA19E30005EDBFB /* FontAwesome.js.flow */,
+				AD56EA462AA19E30005EDBFB /* Ionicons.js */,
+				AD56EA472AA19E30005EDBFB /* FontAwesome5Pro.js.flow */,
+				AD56EA482AA19E30005EDBFB /* Fontisto.js.flow */,
+				AD56EA492AA19E30005EDBFB /* Entypo.js */,
+				AD56EA4A2AA19E30005EDBFB /* SimpleLineIcons.js */,
+				AD56EA4B2AA19E30005EDBFB /* MaterialCommunityIcons.js.flow */,
+				AD56EA4C2AA19E30005EDBFB /* Foundation.js */,
+				AD56EA4D2AA19E30005EDBFB /* MaterialIcons.js.flow */,
+				AD56EA4E2AA19E30005EDBFB /* Entypo.js.flow */,
+				AD56EA4F2AA19E30005EDBFB /* index.js */,
+				AD56EA502AA19E30005EDBFB /* SimpleLineIcons.js.flow */,
+				AD56EA512AA19E30005EDBFB /* Zocial.js */,
+				AD56EA522AA19E30005EDBFB /* FontAwesome.js */,
+				AD56EA532AA19E30005EDBFB /* EvilIcons.js */,
+				AD56EA542AA19E30005EDBFB /* index.js.flow */,
+				AD56EA552AA19E30005EDBFB /* AntDesign.js */,
+				AD56EA562AA19E30005EDBFB /* AntDesign.js.flow */,
+				AD56EA572AA19E30005EDBFB /* RNIMigration.js */,
+				AD56EA582AA19E30005EDBFB /* Foundation.js.flow */,
+				AD56EA592AA19E30005EDBFB /* FontAwesome5.js.flow */,
+				AD56EA5A2AA19E30005EDBFB /* Octicons.js.flow */,
+				AD56EA5B2AA19E30005EDBFB /* lib */,
+				AD56EA692AA19E30005EDBFB /* FontAwesome5Pro.js */,
+				AD56EA6A2AA19E30005EDBFB /* Feather.js */,
+				AD56EA6B2AA19E30005EDBFB /* Feather.js.flow */,
+				AD56EA6C2AA19E30005EDBFB /* glyphmaps */,
+				AD56EA822AA19E30005EDBFB /* EvilIcons.js.flow */,
+				AD56EA832AA19E30005EDBFB /* MaterialIcons.js */,
+				AD56EA842AA19E30005EDBFB /* Ionicons.js.flow */,
+				AD56EA852AA19E30005EDBFB /* FontAwesome6.js */,
+				AD56EA862AA19E30005EDBFB /* Octicons.js */,
+				AD56EA872AA19E30005EDBFB /* Fontisto.js */,
+				AD56EA882AA19E30005EDBFB /* FontAwesome6Pro.js */,
+				AD56EA892AA19E30005EDBFB /* MaterialCommunityIcons.js */,
+			);
+			path = dist;
+			sourceTree = "<group>";
+		};
+		AD56EA5B2AA19E30005EDBFB /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EA5C2AA19E30005EDBFB /* icon-button.js */,
+				AD56EA5D2AA19E30005EDBFB /* create-icon-source-cache.js */,
+				AD56EA5E2AA19E30005EDBFB /* create-multi-style-icon-set.js */,
+				AD56EA5F2AA19E30005EDBFB /* ensure-native-module-available.js */,
+				AD56EA602AA19E30005EDBFB /* create-icon-set-from-fontawesome6.js */,
+				AD56EA612AA19E30005EDBFB /* NativeRNVectorIcons.web.js */,
+				AD56EA622AA19E30005EDBFB /* create-icon-set.js */,
+				AD56EA632AA19E30005EDBFB /* object-utils.js */,
+				AD56EA642AA19E30005EDBFB /* create-icon-set-from-fontawesome5.js */,
+				AD56EA652AA19E30005EDBFB /* NativeRNVectorIcons.js */,
+				AD56EA662AA19E30005EDBFB /* create-icon-set-from-icomoon.js */,
+				AD56EA672AA19E30005EDBFB /* create-icon-set-from-fontello.js */,
+				AD56EA682AA19E30005EDBFB /* generate-icon-set-from-css.js */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		AD56EA6C2AA19E30005EDBFB /* glyphmaps */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EA6D2AA19E30005EDBFB /* Ionicons.json */,
+				AD56EA6E2AA19E30005EDBFB /* FontAwesome5Pro.json */,
+				AD56EA6F2AA19E30005EDBFB /* Fontisto.json */,
+				AD56EA702AA19E30005EDBFB /* EvilIcons.json */,
+				AD56EA712AA19E30005EDBFB /* Octicons.json */,
+				AD56EA722AA19E30005EDBFB /* FontAwesome5Free_meta.json */,
+				AD56EA732AA19E30005EDBFB /* FontAwesome6Free.json */,
+				AD56EA742AA19E30005EDBFB /* FontAwesome6Free_meta.json */,
+				AD56EA752AA19E30005EDBFB /* FontAwesome.json */,
+				AD56EA762AA19E30005EDBFB /* MaterialIcons.json */,
+				AD56EA772AA19E30005EDBFB /* FontAwesome6Pro.json */,
+				AD56EA782AA19E30005EDBFB /* FontAwesome6Pro_meta.json */,
+				AD56EA792AA19E30005EDBFB /* Entypo.json */,
+				AD56EA7A2AA19E30005EDBFB /* SimpleLineIcons.json */,
+				AD56EA7B2AA19E30005EDBFB /* AntDesign.json */,
+				AD56EA7C2AA19E30005EDBFB /* FontAwesome5Pro_meta.json */,
+				AD56EA7D2AA19E30005EDBFB /* FontAwesome5Free.json */,
+				AD56EA7E2AA19E30005EDBFB /* Feather.json */,
+				AD56EA7F2AA19E30005EDBFB /* MaterialCommunityIcons.json */,
+				AD56EA802AA19E30005EDBFB /* Foundation.json */,
+				AD56EA812AA19E30005EDBFB /* Zocial.json */,
+			);
+			path = glyphmaps;
+			sourceTree = "<group>";
+		};
+		AD56EA8B2AA19E30005EDBFB /* node_modules */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EA8C2AA19E30005EDBFB /* yargs-parser */,
+				AD56EA9A2AA19E30005EDBFB /* cliui */,
+				AD56EAA52AA19E30005EDBFB /* yargs */,
+			);
+			path = node_modules;
+			sourceTree = "<group>";
+		};
+		AD56EA8C2AA19E30005EDBFB /* yargs-parser */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EA8D2AA19E30005EDBFB /* CHANGELOG.md */,
+				AD56EA8E2AA19E30005EDBFB /* README.md */,
+				AD56EA8F2AA19E30005EDBFB /* package.json */,
+				AD56EA902AA19E30005EDBFB /* build */,
+				AD56EA982AA19E30005EDBFB /* LICENSE.txt */,
+				AD56EA992AA19E30005EDBFB /* browser.js */,
+			);
+			path = "yargs-parser";
+			sourceTree = "<group>";
+		};
+		AD56EA902AA19E30005EDBFB /* build */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EA912AA19E30005EDBFB /* index.cjs */,
+				AD56EA922AA19E30005EDBFB /* lib */,
+			);
+			path = build;
+			sourceTree = "<group>";
+		};
+		AD56EA922AA19E30005EDBFB /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EA932AA19E30005EDBFB /* string-utils.js */,
+				AD56EA942AA19E30005EDBFB /* tokenize-arg-string.js */,
+				AD56EA952AA19E30005EDBFB /* index.js */,
+				AD56EA962AA19E30005EDBFB /* yargs-parser.js */,
+				AD56EA972AA19E30005EDBFB /* yargs-parser-types.js */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		AD56EA9A2AA19E30005EDBFB /* cliui */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EA9B2AA19E30005EDBFB /* CHANGELOG.md */,
+				AD56EA9C2AA19E30005EDBFB /* README.md */,
+				AD56EA9D2AA19E30005EDBFB /* package.json */,
+				AD56EA9E2AA19E30005EDBFB /* index.mjs */,
+				AD56EA9F2AA19E30005EDBFB /* build */,
+				AD56EAA42AA19E30005EDBFB /* LICENSE.txt */,
+			);
+			path = cliui;
+			sourceTree = "<group>";
+		};
+		AD56EA9F2AA19E30005EDBFB /* build */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAA02AA19E30005EDBFB /* index.cjs */,
+				AD56EAA12AA19E30005EDBFB /* lib */,
+			);
+			path = build;
+			sourceTree = "<group>";
+		};
+		AD56EAA12AA19E30005EDBFB /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAA22AA19E30005EDBFB /* string-utils.js */,
+				AD56EAA32AA19E30005EDBFB /* index.js */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		AD56EAA52AA19E30005EDBFB /* yargs */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAA62AA19E30005EDBFB /* locales */,
+				AD56EABF2AA19E30005EDBFB /* LICENSE */,
+				AD56EAC02AA19E30005EDBFB /* CHANGELOG.md */,
+				AD56EAC12AA19E30005EDBFB /* browser.mjs */,
+				AD56EAC22AA19E30005EDBFB /* README.md */,
+				AD56EAC32AA19E30005EDBFB /* package.json */,
+				AD56EAC42AA19E30005EDBFB /* index.cjs */,
+				AD56EAC52AA19E30005EDBFB /* index.mjs */,
+				AD56EAC62AA19E30005EDBFB /* lib */,
+				AD56EACA2AA19E30005EDBFB /* yargs */,
+				AD56EACB2AA19E30005EDBFB /* build */,
+				AD56EAE32AA19E30005EDBFB /* helpers */,
+			);
+			path = yargs;
+			sourceTree = "<group>";
+		};
+		AD56EAA62AA19E30005EDBFB /* locales */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAA72AA19E30005EDBFB /* tr.json */,
+				AD56EAA82AA19E30005EDBFB /* hu.json */,
+				AD56EAA92AA19E30005EDBFB /* nl.json */,
+				AD56EAAA2AA19E30005EDBFB /* pirate.json */,
+				AD56EAAB2AA19E30005EDBFB /* zh_CN.json */,
+				AD56EAAC2AA19E30005EDBFB /* ja.json */,
+				AD56EAAD2AA19E30005EDBFB /* de.json */,
+				AD56EAAE2AA19E30005EDBFB /* ru.json */,
+				AD56EAAF2AA19E30005EDBFB /* pl.json */,
+				AD56EAB02AA19E30005EDBFB /* fi.json */,
+				AD56EAB12AA19E30005EDBFB /* pt.json */,
+				AD56EAB22AA19E30005EDBFB /* be.json */,
+				AD56EAB32AA19E30005EDBFB /* en.json */,
+				AD56EAB42AA19E30005EDBFB /* it.json */,
+				AD56EAB52AA19E30005EDBFB /* fr.json */,
+				AD56EAB62AA19E30005EDBFB /* hi.json */,
+				AD56EAB72AA19E30005EDBFB /* ko.json */,
+				AD56EAB82AA19E30005EDBFB /* id.json */,
+				AD56EAB92AA19E30005EDBFB /* pt_BR.json */,
+				AD56EABA2AA19E30005EDBFB /* zh_TW.json */,
+				AD56EABB2AA19E30005EDBFB /* th.json */,
+				AD56EABC2AA19E30005EDBFB /* nn.json */,
+				AD56EABD2AA19E30005EDBFB /* es.json */,
+				AD56EABE2AA19E30005EDBFB /* nb.json */,
+			);
+			path = locales;
+			sourceTree = "<group>";
+		};
+		AD56EAC62AA19E30005EDBFB /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAC72AA19E30005EDBFB /* platform-shims */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		AD56EAC72AA19E30005EDBFB /* platform-shims */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAC82AA19E30005EDBFB /* browser.mjs */,
+				AD56EAC92AA19E30005EDBFB /* esm.mjs */,
+			);
+			path = "platform-shims";
+			sourceTree = "<group>";
+		};
+		AD56EACB2AA19E30005EDBFB /* build */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EACC2AA19E30005EDBFB /* index.cjs */,
+				AD56EACD2AA19E30005EDBFB /* lib */,
+			);
+			path = build;
+			sourceTree = "<group>";
+		};
+		AD56EACD2AA19E30005EDBFB /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EACE2AA19E30005EDBFB /* argsert.js */,
+				AD56EACF2AA19E30005EDBFB /* yerror.js */,
+				AD56EAD02AA19E30005EDBFB /* typings */,
+				AD56EAD32AA19E30005EDBFB /* parse-command.js */,
+				AD56EAD42AA19E30005EDBFB /* completion.js */,
+				AD56EAD52AA19E30005EDBFB /* utils */,
+				AD56EADD2AA19E30005EDBFB /* command.js */,
+				AD56EADE2AA19E30005EDBFB /* validation.js */,
+				AD56EADF2AA19E30005EDBFB /* middleware.js */,
+				AD56EAE02AA19E30005EDBFB /* usage.js */,
+				AD56EAE12AA19E30005EDBFB /* completion-templates.js */,
+				AD56EAE22AA19E30005EDBFB /* yargs-factory.js */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		AD56EAD02AA19E30005EDBFB /* typings */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAD12AA19E30005EDBFB /* yargs-parser-types.js */,
+				AD56EAD22AA19E30005EDBFB /* common-types.js */,
+			);
+			path = typings;
+			sourceTree = "<group>";
+		};
+		AD56EAD52AA19E30005EDBFB /* utils */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAD62AA19E30005EDBFB /* apply-extends.js */,
+				AD56EAD72AA19E30005EDBFB /* is-promise.js */,
+				AD56EAD82AA19E30005EDBFB /* set-blocking.js */,
+				AD56EAD92AA19E30005EDBFB /* which-module.js */,
+				AD56EADA2AA19E30005EDBFB /* obj-filter.js */,
+				AD56EADB2AA19E30005EDBFB /* process-argv.js */,
+				AD56EADC2AA19E30005EDBFB /* levenshtein.js */,
+			);
+			path = utils;
+			sourceTree = "<group>";
+		};
+		AD56EAE32AA19E30005EDBFB /* helpers */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAE42AA19E30005EDBFB /* helpers.mjs */,
+				AD56EAE52AA19E30005EDBFB /* index.js */,
+				AD56EAE62AA19E30005EDBFB /* package.json */,
+			);
+			path = helpers;
+			sourceTree = "<group>";
+		};
+		AD56EAF02AA19E30005EDBFB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB5D2AA19E30005EDBFB /* libRNVectorIcons.a */,
+				AD56EB5F2AA19E30005EDBFB /* libRNVectorIcons-tvOS.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AD56EAF92AA19E30005EDBFB /* android */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAFA2AA19E30005EDBFB /* build.gradle */,
+				AD56EAFB2AA19E30005EDBFB /* src */,
+			);
+			path = android;
+			sourceTree = "<group>";
+		};
+		AD56EAFB2AA19E30005EDBFB /* src */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAFC2AA19E30005EDBFB /* newarch */,
+				AD56EB022AA19E30005EDBFB /* oldarch */,
+				AD56EB082AA19E30005EDBFB /* main */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		AD56EAFC2AA19E30005EDBFB /* newarch */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAFD2AA19E30005EDBFB /* java */,
+			);
+			path = newarch;
+			sourceTree = "<group>";
+		};
+		AD56EAFD2AA19E30005EDBFB /* java */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAFE2AA19E30005EDBFB /* com */,
+			);
+			path = java;
+			sourceTree = "<group>";
+		};
+		AD56EAFE2AA19E30005EDBFB /* com */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EAFF2AA19E30005EDBFB /* oblador */,
+			);
+			path = com;
+			sourceTree = "<group>";
+		};
+		AD56EAFF2AA19E30005EDBFB /* oblador */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB002AA19E30005EDBFB /* vectoricons */,
+			);
+			path = oblador;
+			sourceTree = "<group>";
+		};
+		AD56EB002AA19E30005EDBFB /* vectoricons */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB012AA19E30005EDBFB /* VectorIconsModule.java */,
+			);
+			path = vectoricons;
+			sourceTree = "<group>";
+		};
+		AD56EB022AA19E30005EDBFB /* oldarch */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB032AA19E30005EDBFB /* java */,
+			);
+			path = oldarch;
+			sourceTree = "<group>";
+		};
+		AD56EB032AA19E30005EDBFB /* java */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB042AA19E30005EDBFB /* com */,
+			);
+			path = java;
+			sourceTree = "<group>";
+		};
+		AD56EB042AA19E30005EDBFB /* com */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB052AA19E30005EDBFB /* oblador */,
+			);
+			path = com;
+			sourceTree = "<group>";
+		};
+		AD56EB052AA19E30005EDBFB /* oblador */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB062AA19E30005EDBFB /* vectoricons */,
+			);
+			path = oblador;
+			sourceTree = "<group>";
+		};
+		AD56EB062AA19E30005EDBFB /* vectoricons */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB072AA19E30005EDBFB /* VectorIconsModule.java */,
+			);
+			path = vectoricons;
+			sourceTree = "<group>";
+		};
+		AD56EB082AA19E30005EDBFB /* main */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB092AA19E30005EDBFB /* AndroidManifest.xml */,
+				AD56EB0A2AA19E30005EDBFB /* java */,
+			);
+			path = main;
+			sourceTree = "<group>";
+		};
+		AD56EB0A2AA19E30005EDBFB /* java */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB0B2AA19E30005EDBFB /* com */,
+			);
+			path = java;
+			sourceTree = "<group>";
+		};
+		AD56EB0B2AA19E30005EDBFB /* com */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB0C2AA19E30005EDBFB /* oblador */,
+			);
+			path = com;
+			sourceTree = "<group>";
+		};
+		AD56EB0C2AA19E30005EDBFB /* oblador */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB0D2AA19E30005EDBFB /* vectoricons */,
+			);
+			path = oblador;
+			sourceTree = "<group>";
+		};
+		AD56EB0D2AA19E30005EDBFB /* vectoricons */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB0E2AA19E30005EDBFB /* VectorIconsPackage.java */,
+				AD56EB0F2AA19E30005EDBFB /* VectorIconsModuleImpl.java */,
+			);
+			path = vectoricons;
+			sourceTree = "<group>";
+		};
+		AD56EB132AA19E30005EDBFB /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB142AA19E30005EDBFB /* icon-button.js */,
+				AD56EB152AA19E30005EDBFB /* create-icon-source-cache.js */,
+				AD56EB162AA19E30005EDBFB /* create-multi-style-icon-set.js */,
+				AD56EB172AA19E30005EDBFB /* ensure-native-module-available.js */,
+				AD56EB182AA19E30005EDBFB /* create-icon-set-from-fontawesome6.js */,
+				AD56EB192AA19E30005EDBFB /* NativeRNVectorIcons.web.js */,
+				AD56EB1A2AA19E30005EDBFB /* create-icon-set.js */,
+				AD56EB1B2AA19E30005EDBFB /* object-utils.js */,
+				AD56EB1C2AA19E30005EDBFB /* create-icon-set-from-fontawesome5.js */,
+				AD56EB1D2AA19E30005EDBFB /* NativeRNVectorIcons.js */,
+				AD56EB1E2AA19E30005EDBFB /* create-icon-set-from-icomoon.js */,
+				AD56EB1F2AA19E30005EDBFB /* create-icon-set-from-fontello.js */,
+				AD56EB202AA19E30005EDBFB /* generate-icon-set-from-css.js */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		AD56EB222AA19E30005EDBFB /* templates */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB232AA19E30005EDBFB /* bundled-icon-set.tpl */,
+				AD56EB242AA19E30005EDBFB /* separated-icon-set.tpl */,
+			);
+			path = templates;
+			sourceTree = "<group>";
+		};
+		AD56EB272AA19E30005EDBFB /* glyphmaps */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB282AA19E30005EDBFB /* Ionicons.json */,
+				AD56EB292AA19E30005EDBFB /* FontAwesome5Pro.json */,
+				AD56EB2A2AA19E30005EDBFB /* Fontisto.json */,
+				AD56EB2B2AA19E30005EDBFB /* EvilIcons.json */,
+				AD56EB2C2AA19E30005EDBFB /* Octicons.json */,
+				AD56EB2D2AA19E30005EDBFB /* FontAwesome5Free_meta.json */,
+				AD56EB2E2AA19E30005EDBFB /* FontAwesome6Free.json */,
+				AD56EB2F2AA19E30005EDBFB /* FontAwesome6Free_meta.json */,
+				AD56EB302AA19E30005EDBFB /* FontAwesome.json */,
+				AD56EB312AA19E30005EDBFB /* MaterialIcons.json */,
+				AD56EB322AA19E30005EDBFB /* FontAwesome6Pro.json */,
+				AD56EB332AA19E30005EDBFB /* FontAwesome6Pro_meta.json */,
+				AD56EB342AA19E30005EDBFB /* Entypo.json */,
+				AD56EB352AA19E30005EDBFB /* SimpleLineIcons.json */,
+				AD56EB362AA19E30005EDBFB /* AntDesign.json */,
+				AD56EB372AA19E30005EDBFB /* FontAwesome5Pro_meta.json */,
+				AD56EB382AA19E30005EDBFB /* FontAwesome5Free.json */,
+				AD56EB392AA19E30005EDBFB /* Feather.json */,
+				AD56EB3A2AA19E30005EDBFB /* MaterialCommunityIcons.json */,
+				AD56EB3B2AA19E30005EDBFB /* Foundation.json */,
+				AD56EB3C2AA19E30005EDBFB /* Zocial.json */,
+			);
+			path = glyphmaps;
+			sourceTree = "<group>";
+		};
+		AD56EB402AA19E30005EDBFB /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				AD56EB412AA19E30005EDBFB /* Fontisto.ttf */,
+				AD56EB422AA19E30005EDBFB /* Octicons.ttf */,
+				AD56EB432AA19E30005EDBFB /* Feather.ttf */,
+				AD56EB442AA19E30005EDBFB /* FontAwesome6_Regular.ttf */,
+				AD56EB452AA19E30005EDBFB /* Entypo.ttf */,
+				AD56EB462AA19E30005EDBFB /* FontAwesome5_Brands.ttf */,
+				AD56EB472AA19E30005EDBFB /* MaterialCommunityIcons.ttf */,
+				AD56EB482AA19E30005EDBFB /* AntDesign.ttf */,
+				AD56EB492AA19E30005EDBFB /* Foundation.ttf */,
+				AD56EB4A2AA19E30005EDBFB /* Ionicons.ttf */,
+				AD56EB4B2AA19E30005EDBFB /* FontAwesome5_Solid.ttf */,
+				AD56EB4C2AA19E30005EDBFB /* FontAwesome5_Regular.ttf */,
+				AD56EB4D2AA19E30005EDBFB /* FontAwesome.ttf */,
+				AD56EB4E2AA19E30005EDBFB /* Zocial.ttf */,
+				AD56EB4F2AA19E30005EDBFB /* EvilIcons.ttf */,
+				AD56EB502AA19E30005EDBFB /* FontAwesome6_Solid.ttf */,
+				AD56EB512AA19E30005EDBFB /* SimpleLineIcons.ttf */,
+				AD56EB522AA19E30005EDBFB /* FontAwesome6_Brands.ttf */,
+				AD56EB532AA19E30005EDBFB /* MaterialIcons.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -222,6 +1374,12 @@
 			mainGroup = 83CBB9F61A601CBA00E9B192;
 			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = AD56EAF02AA19E30005EDBFB /* Products */;
+					ProjectRef = AD56EAEF2AA19E30005EDBFB /* RNVectorIcons.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				13B07F861A680F5B00A75B9A /* RNComponents */,
@@ -229,6 +1387,23 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		AD56EB5D2AA19E30005EDBFB /* libRNVectorIcons.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libRNVectorIcons.a;
+			remoteRef = AD56EB5C2AA19E30005EDBFB /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		AD56EB5F2AA19E30005EDBFB /* libRNVectorIcons-tvOS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libRNVectorIcons-tvOS.a";
+			remoteRef = AD56EB5E2AA19E30005EDBFB /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		00E356EC1AD99517003FC87E /* Resources */ = {
@@ -242,8 +1417,263 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD56EC3A2AA19E30005EDBFB /* FontAwesome6Free_meta.json in Resources */,
+				AD56EBE92AA19E30005EDBFB /* CHANGELOG.md in Resources */,
+				AD56EBDF2AA19E30005EDBFB /* hi.json in Resources */,
+				AD56EC0C2AA19E30005EDBFB /* Zocial.js in Resources */,
+				AD56EC252AA19E30005EDBFB /* create-icon-set-from-fontawesome6.js in Resources */,
+				AD56EC502AA19E30005EDBFB /* FontAwesome5_Brands.ttf in Resources */,
+				AD56EBAC2AA19E30005EDBFB /* SimpleLineIcons.json in Resources */,
+				AD56EBA62AA19E30005EDBFB /* FontAwesome6Free_meta.json in Resources */,
+				AD56EB7B2AA19E30005EDBFB /* FontAwesome5Pro.js.flow in Resources */,
+				AD56EBB62AA19E30005EDBFB /* Ionicons.js.flow in Resources */,
+				AD56EB922AA19E30005EDBFB /* ensure-native-module-available.js in Resources */,
+				AD56EC4C2AA19E30005EDBFB /* Octicons.ttf in Resources */,
+				AD56EC2B2AA19E30005EDBFB /* create-icon-set-from-icomoon.js in Resources */,
+				AD56EC4D2AA19E30005EDBFB /* Feather.ttf in Resources */,
+				AD56EBF22AA19E30005EDBFB /* index.cjs in Resources */,
+				AD56EC372AA19E30005EDBFB /* Octicons.json in Resources */,
+				AD56EBAF2AA19E30005EDBFB /* FontAwesome5Free.json in Resources */,
+				AD56EC4F2AA19E30005EDBFB /* Entypo.ttf in Resources */,
+				AD56EBA22AA19E30005EDBFB /* EvilIcons.json in Resources */,
+				AD56EBCB2AA19E30005EDBFB /* index.mjs in Resources */,
+				AD56EC452AA19E30005EDBFB /* MaterialCommunityIcons.json in Resources */,
+				AD56EB6A2AA19E30005EDBFB /* MaterialCommunityIcons.js.flow in Resources */,
+				AD56EC582AA19E30005EDBFB /* Zocial.ttf in Resources */,
+				AD56EB7F2AA19E30005EDBFB /* MaterialCommunityIcons.js.flow in Resources */,
+				AD56EB8E2AA19E30005EDBFB /* Octicons.js.flow in Resources */,
+				AD56EBCE2AA19E30005EDBFB /* index.js in Resources */,
+				AD56EBF42AA19E30005EDBFB /* yerror.js in Resources */,
+				AD56EC422AA19E30005EDBFB /* FontAwesome5Pro_meta.json in Resources */,
+				AD56EB752AA19E30005EDBFB /* generate-ionicons.js in Resources */,
+				AD56EBF72AA19E30005EDBFB /* parse-command.js in Resources */,
+				AD56EB842AA19E30005EDBFB /* SimpleLineIcons.js.flow in Resources */,
+				AD56EB732AA19E30005EDBFB /* generate-material-icons.js in Resources */,
+				AD56EBD82AA19E30005EDBFB /* pl.json in Resources */,
+				AD56EC482AA19E30005EDBFB /* EvilIcons.js.flow in Resources */,
+				AD56EBA92AA19E30005EDBFB /* FontAwesome6Pro.json in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				AD56EC272AA19E30005EDBFB /* create-icon-set.js in Resources */,
+				AD56EC0F2AA19E30005EDBFB /* README.md in Resources */,
+				AD56EC432AA19E30005EDBFB /* FontAwesome5Free.json in Resources */,
+				AD56EBE02AA19E30005EDBFB /* ko.json in Resources */,
+				AD56EB7A2AA19E30005EDBFB /* Ionicons.js in Resources */,
+				AD56EC1F2AA19E30005EDBFB /* Octicons.js.flow in Resources */,
+				AD56EB7D2AA19E30005EDBFB /* Entypo.js in Resources */,
+				AD56EBB42AA19E30005EDBFB /* EvilIcons.js.flow in Resources */,
+				AD56EB862AA19E30005EDBFB /* FontAwesome.js in Resources */,
+				AD56EBD22AA19E30005EDBFB /* nl.json in Resources */,
+				AD56EC332AA19E30005EDBFB /* Ionicons.json in Resources */,
+				AD56EC182AA19E30005EDBFB /* build.gradle in Resources */,
+				AD56EB712AA19E30005EDBFB /* add-font-assets.js in Resources */,
+				AD56EBCA2AA19E30005EDBFB /* package.json in Resources */,
+				AD56EBC92AA19E30005EDBFB /* README.md in Resources */,
+				AD56EBC42AA19E30005EDBFB /* yargs-parser.js in Resources */,
+				AD56EC3C2AA19E30005EDBFB /* MaterialIcons.json in Resources */,
+				AD56EB942AA19E30005EDBFB /* NativeRNVectorIcons.web.js in Resources */,
+				AD56EBBD2AA19E30005EDBFB /* CHANGELOG.md in Resources */,
+				AD56EC522AA19E30005EDBFB /* AntDesign.ttf in Resources */,
+				AD56EBE62AA19E30005EDBFB /* es.json in Resources */,
+				AD56EC292AA19E30005EDBFB /* create-icon-set-from-fontawesome5.js in Resources */,
+				AD56EBB12AA19E30005EDBFB /* MaterialCommunityIcons.json in Resources */,
+				AD56EBBB2AA19E30005EDBFB /* MaterialCommunityIcons.js in Resources */,
+				AD56EBEA2AA19E30005EDBFB /* browser.mjs in Resources */,
+				AD56EC3B2AA19E30005EDBFB /* FontAwesome.json in Resources */,
+				AD56EB9B2AA19E30005EDBFB /* generate-icon-set-from-css.js in Resources */,
+				AD56EBC22AA19E30005EDBFB /* tokenize-arg-string.js in Resources */,
+				AD56EBE82AA19E30005EDBFB /* LICENSE in Resources */,
+				AD56EB722AA19E30005EDBFB /* generate-fontawesome6-metadata.js in Resources */,
+				AD56EB892AA19E30005EDBFB /* AntDesign.js in Resources */,
+				AD56EBDB2AA19E30005EDBFB /* be.json in Resources */,
+				AD56EC202AA19E30005EDBFB /* fonts.gradle in Resources */,
+				AD56EBA52AA19E30005EDBFB /* FontAwesome6Free.json in Resources */,
+				AD56EBB72AA19E30005EDBFB /* FontAwesome6.js in Resources */,
+				AD56EC4B2AA19E30005EDBFB /* Fontisto.ttf in Resources */,
+				AD56EB8B2AA19E30005EDBFB /* RNIMigration.js in Resources */,
+				AD56EC512AA19E30005EDBFB /* MaterialCommunityIcons.ttf in Resources */,
+				AD56EC362AA19E30005EDBFB /* EvilIcons.json in Resources */,
+				AD56EC442AA19E30005EDBFB /* Feather.json in Resources */,
+				AD56EB832AA19E30005EDBFB /* index.js in Resources */,
+				AD56EBB32AA19E30005EDBFB /* Zocial.json in Resources */,
+				AD56EBC32AA19E30005EDBFB /* index.js in Resources */,
+				AD56EC112AA19E30005EDBFB /* index.js.flow in Resources */,
+				AD56EC4E2AA19E30005EDBFB /* FontAwesome6_Regular.ttf in Resources */,
+				AD56EC612AA19E30005EDBFB /* FontAwesome6Pro.js in Resources */,
+				AD56EC5D2AA19E30005EDBFB /* MaterialIcons.ttf in Resources */,
+				AD56EBC82AA19E30005EDBFB /* CHANGELOG.md in Resources */,
+				AD56EB8F2AA19E30005EDBFB /* icon-button.js in Resources */,
+				AD56EC122AA19E30005EDBFB /* AntDesign.js in Resources */,
+				AD56EC0B2AA19E30005EDBFB /* SimpleLineIcons.js.flow in Resources */,
+				AD56EBEC2AA19E30005EDBFB /* package.json in Resources */,
+				AD56EBFE2AA19E30005EDBFB /* process-argv.js in Resources */,
+				AD56EBF62AA19E30005EDBFB /* common-types.js in Resources */,
+				AD56EB6D2AA19E30005EDBFB /* fa-upgrade.sh in Resources */,
+				AD56EBFF2AA19E30005EDBFB /* levenshtein.js in Resources */,
+				AD56EB772AA19E30005EDBFB /* FontAwesome5.js in Resources */,
+				AD56EB9D2AA19E30005EDBFB /* Feather.js in Resources */,
+				AD56EC012AA19E30005EDBFB /* validation.js in Resources */,
+				AD56EB7E2AA19E30005EDBFB /* SimpleLineIcons.js in Resources */,
+				AD56EBDA2AA19E30005EDBFB /* pt.json in Resources */,
+				AD56EB6C2AA19E30005EDBFB /* generate-fontawesome5-metadata.js in Resources */,
+				AD56EC082AA19E30005EDBFB /* package.json in Resources */,
+				AD56EBD92AA19E30005EDBFB /* fi.json in Resources */,
+				AD56EBBA2AA19E30005EDBFB /* FontAwesome6Pro.js in Resources */,
+				AD56EC532AA19E30005EDBFB /* Foundation.ttf in Resources */,
+				AD56EB6F2AA19E30005EDBFB /* fa5-upgrade.sh in Resources */,
+				AD56EC4A2AA19E30005EDBFB /* Ionicons.js.flow in Resources */,
+				AD56EBCC2AA19E30005EDBFB /* index.cjs in Resources */,
+				AD56EBFB2AA19E30005EDBFB /* set-blocking.js in Resources */,
+				AD56EC472AA19E30005EDBFB /* Zocial.json in Resources */,
+				AD56EBA02AA19E30005EDBFB /* FontAwesome5Pro.json in Resources */,
+				AD56EC222AA19E30005EDBFB /* create-icon-source-cache.js in Resources */,
+				AD56EC2C2AA19E30005EDBFB /* create-icon-set-from-fontello.js in Resources */,
+				AD56EBC62AA19E30005EDBFB /* LICENSE.txt in Resources */,
+				AD56EBFC2AA19E30005EDBFB /* which-module.js in Resources */,
+				AD56EC2E2AA19E30005EDBFB /* FontAwesome5Pro.js in Resources */,
+				AD56EC3E2AA19E30005EDBFB /* FontAwesome6Pro_meta.json in Resources */,
+				AD56EB642AA19E30005EDBFB /* FontAwesome5Pro.js.flow in Resources */,
+				AD56EC352AA19E30005EDBFB /* Fontisto.json in Resources */,
+				AD56EB702AA19E30005EDBFB /* generate-icon.js in Resources */,
+				AD56EB662AA19E30005EDBFB /* Fontisto.js.flow in Resources */,
+				AD56EB612AA19E30005EDBFB /* Zocial.js.flow in Resources */,
+				AD56EBA32AA19E30005EDBFB /* Octicons.json in Resources */,
+				AD56EBFD2AA19E30005EDBFB /* obj-filter.js in Resources */,
+				AD56EC0A2AA19E30005EDBFB /* index.js in Resources */,
+				AD56EBFA2AA19E30005EDBFB /* is-promise.js in Resources */,
+				AD56EBD72AA19E30005EDBFB /* ru.json in Resources */,
+				AD56EC102AA19E30005EDBFB /* EvilIcons.js in Resources */,
+				AD56EBAD2AA19E30005EDBFB /* AntDesign.json in Resources */,
+				AD56EC1E2AA19E30005EDBFB /* FontAwesome5.js.flow in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				AD56EB912AA19E30005EDBFB /* create-multi-style-icon-set.js in Resources */,
+				AD56EBD12AA19E30005EDBFB /* hu.json in Resources */,
+				AD56EBB22AA19E30005EDBFB /* Foundation.json in Resources */,
+				AD56EB9A2AA19E30005EDBFB /* create-icon-set-from-fontello.js in Resources */,
+				AD56EB812AA19E30005EDBFB /* MaterialIcons.js.flow in Resources */,
+				AD56EBD42AA19E30005EDBFB /* zh_CN.json in Resources */,
+				AD56EC412AA19E30005EDBFB /* AntDesign.json in Resources */,
+				AD56EC392AA19E30005EDBFB /* FontAwesome6Free.json in Resources */,
+				AD56EC5F2AA19E30005EDBFB /* Octicons.js in Resources */,
+				AD56EBE32AA19E30005EDBFB /* zh_TW.json in Resources */,
+				AD56EC562AA19E30005EDBFB /* FontAwesome5_Regular.ttf in Resources */,
+				AD56EC622AA19E30005EDBFB /* FONTAWESOME5.md in Resources */,
+				AD56EB7C2AA19E30005EDBFB /* Fontisto.js.flow in Resources */,
+				AD56EBDE2AA19E30005EDBFB /* fr.json in Resources */,
+				AD56EC632AA19E30005EDBFB /* MaterialCommunityIcons.js in Resources */,
+				AD56EC5A2AA19E30005EDBFB /* FontAwesome6_Solid.ttf in Resources */,
+				AD56EBED2AA19E30005EDBFB /* index.cjs in Resources */,
+				AD56EC052AA19E30005EDBFB /* yargs-factory.js in Resources */,
+				AD56EB972AA19E30005EDBFB /* create-icon-set-from-fontawesome5.js in Resources */,
+				AD56EC132AA19E30005EDBFB /* package.json in Resources */,
+				AD56EC062AA19E30005EDBFB /* helpers.mjs in Resources */,
+				AD56EBBE2AA19E30005EDBFB /* README.md in Resources */,
+				AD56EB902AA19E30005EDBFB /* create-icon-source-cache.js in Resources */,
+				AD56EBCD2AA19E30005EDBFB /* string-utils.js in Resources */,
+				AD56EBEF2AA19E30005EDBFB /* browser.mjs in Resources */,
+				AD56EBF02AA19E30005EDBFB /* esm.mjs in Resources */,
+				AD56EC022AA19E30005EDBFB /* middleware.js in Resources */,
+				AD56EBD32AA19E30005EDBFB /* pirate.json in Resources */,
+				AD56EC2A2AA19E30005EDBFB /* NativeRNVectorIcons.js in Resources */,
+				AD56EB652AA19E30005EDBFB /* FONTAWESOME6.md in Resources */,
+				AD56EC462AA19E30005EDBFB /* Foundation.json in Resources */,
+				AD56EBD62AA19E30005EDBFB /* de.json in Resources */,
+				AD56EBD52AA19E30005EDBFB /* ja.json in Resources */,
+				AD56EBEE2AA19E30005EDBFB /* index.mjs in Resources */,
+				AD56EB8C2AA19E30005EDBFB /* Foundation.js.flow in Resources */,
+				AD56EB692AA19E30005EDBFB /* LICENSE in Resources */,
+				AD56EC1B2AA19E30005EDBFB /* AndroidManifest.xml in Resources */,
+				AD56EC0E2AA19E30005EDBFB /* RNVectorIcons.podspec in Resources */,
+				AD56EB782AA19E30005EDBFB /* Zocial.js.flow in Resources */,
+				AD56EBAB2AA19E30005EDBFB /* Entypo.json in Resources */,
+				AD56EC002AA19E30005EDBFB /* command.js in Resources */,
+				AD56EBC02AA19E30005EDBFB /* index.cjs in Resources */,
+				AD56EC2F2AA19E30005EDBFB /* bundled-icon-set.tpl in Resources */,
+				AD56EB882AA19E30005EDBFB /* index.js.flow in Resources */,
+				AD56EC282AA19E30005EDBFB /* object-utils.js in Resources */,
+				AD56EC302AA19E30005EDBFB /* separated-icon-set.tpl in Resources */,
+				AD56EBF52AA19E30005EDBFB /* yargs-parser-types.js in Resources */,
+				AD56EBA42AA19E30005EDBFB /* FontAwesome5Free_meta.json in Resources */,
+				AD56EB602AA19E30005EDBFB /* FontAwesome5.js in Resources */,
+				AD56EBAE2AA19E30005EDBFB /* FontAwesome5Pro_meta.json in Resources */,
+				AD56EB802AA19E30005EDBFB /* Foundation.js in Resources */,
+				AD56EB872AA19E30005EDBFB /* EvilIcons.js in Resources */,
+				AD56EBDC2AA19E30005EDBFB /* en.json in Resources */,
+				AD56EB932AA19E30005EDBFB /* create-icon-set-from-fontawesome6.js in Resources */,
+				AD56EC592AA19E30005EDBFB /* EvilIcons.ttf in Resources */,
+				AD56EB792AA19E30005EDBFB /* FontAwesome.js.flow in Resources */,
+				AD56EBAA2AA19E30005EDBFB /* FontAwesome6Pro_meta.json in Resources */,
+				AD56EBE22AA19E30005EDBFB /* pt_BR.json in Resources */,
+				AD56EC152AA19E30005EDBFB /* CONTRIBUTING.md in Resources */,
+				AD56EBE52AA19E30005EDBFB /* nn.json in Resources */,
+				AD56EB672AA19E30005EDBFB /* Entypo.js in Resources */,
+				AD56EBEB2AA19E30005EDBFB /* README.md in Resources */,
+				AD56EBCF2AA19E30005EDBFB /* LICENSE.txt in Resources */,
+				AD56EB8A2AA19E30005EDBFB /* AntDesign.js.flow in Resources */,
+				AD56EB682AA19E30005EDBFB /* SimpleLineIcons.js in Resources */,
+				AD56EC312AA19E30005EDBFB /* Feather.js in Resources */,
+				AD56EC492AA19E30005EDBFB /* MaterialIcons.js in Resources */,
+				AD56EC162AA19E30005EDBFB /* RNIMigration.js in Resources */,
+				AD56EC322AA19E30005EDBFB /* Feather.js.flow in Resources */,
+				AD56EC0D2AA19E30005EDBFB /* FontAwesome.js in Resources */,
+				AD56EB852AA19E30005EDBFB /* Zocial.js in Resources */,
+				AD56EC262AA19E30005EDBFB /* NativeRNVectorIcons.web.js in Resources */,
+				AD56EC342AA19E30005EDBFB /* FontAwesome5Pro.json in Resources */,
+				AD56EBD02AA19E30005EDBFB /* tr.json in Resources */,
+				AD56EB952AA19E30005EDBFB /* create-icon-set.js in Resources */,
+				AD56EBB02AA19E30005EDBFB /* Feather.json in Resources */,
+				AD56EBE42AA19E30005EDBFB /* th.json in Resources */,
+				AD56EC5C2AA19E30005EDBFB /* FontAwesome6_Brands.ttf in Resources */,
+				AD56EBE12AA19E30005EDBFB /* id.json in Resources */,
+				AD56EB982AA19E30005EDBFB /* NativeRNVectorIcons.js in Resources */,
+				AD56EB822AA19E30005EDBFB /* Entypo.js.flow in Resources */,
+				AD56EB742AA19E30005EDBFB /* fa6-upgrade.sh in Resources */,
+				AD56EBF92AA19E30005EDBFB /* apply-extends.js in Resources */,
+				AD56EC3D2AA19E30005EDBFB /* FontAwesome6Pro.json in Resources */,
+				AD56EBDD2AA19E30005EDBFB /* it.json in Resources */,
+				AD56EBBC2AA19E30005EDBFB /* MaterialIcons.js.flow in Resources */,
+				AD56EC552AA19E30005EDBFB /* FontAwesome5_Solid.ttf in Resources */,
+				AD56EC602AA19E30005EDBFB /* Fontisto.js in Resources */,
+				AD56EB6B2AA19E30005EDBFB /* Foundation.js in Resources */,
+				AD56EC5E2AA19E30005EDBFB /* FontAwesome6.js in Resources */,
+				AD56EBBF2AA19E30005EDBFB /* package.json in Resources */,
+				AD56EC2D2AA19E30005EDBFB /* generate-icon-set-from-css.js in Resources */,
+				AD56EBF82AA19E30005EDBFB /* completion.js in Resources */,
+				AD56EBB92AA19E30005EDBFB /* Fontisto.js in Resources */,
+				AD56EC572AA19E30005EDBFB /* FontAwesome.ttf in Resources */,
+				AD56EBA72AA19E30005EDBFB /* FontAwesome.json in Resources */,
+				AD56EBA82AA19E30005EDBFB /* MaterialIcons.json in Resources */,
+				AD56EBE72AA19E30005EDBFB /* nb.json in Resources */,
+				AD56EB9F2AA19E30005EDBFB /* Ionicons.json in Resources */,
+				AD56EC042AA19E30005EDBFB /* completion-templates.js in Resources */,
+				AD56EBF32AA19E30005EDBFB /* argsert.js in Resources */,
+				AD56EC242AA19E30005EDBFB /* ensure-native-module-available.js in Resources */,
+				AD56EB8D2AA19E30005EDBFB /* FontAwesome5.js.flow in Resources */,
+				AD56EC212AA19E30005EDBFB /* icon-button.js in Resources */,
+				AD56EB632AA19E30005EDBFB /* Ionicons.js in Resources */,
+				AD56EC232AA19E30005EDBFB /* create-multi-style-icon-set.js in Resources */,
+				AD56EC382AA19E30005EDBFB /* FontAwesome5Free_meta.json in Resources */,
+				AD56EB9C2AA19E30005EDBFB /* FontAwesome5Pro.js in Resources */,
+				AD56EC542AA19E30005EDBFB /* Ionicons.ttf in Resources */,
+				AD56EC092AA19E30005EDBFB /* Entypo.js.flow in Resources */,
+				AD56EC402AA19E30005EDBFB /* SimpleLineIcons.json in Resources */,
+				AD56EB622AA19E30005EDBFB /* FontAwesome.js.flow in Resources */,
+				AD56EC172AA19E30005EDBFB /* Foundation.js.flow in Resources */,
+				AD56EB992AA19E30005EDBFB /* create-icon-set-from-icomoon.js in Resources */,
+				AD56EBC12AA19E30005EDBFB /* string-utils.js in Resources */,
+				AD56EBC52AA19E30005EDBFB /* yargs-parser-types.js in Resources */,
+				AD56EBB52AA19E30005EDBFB /* MaterialIcons.js in Resources */,
+				AD56EB6E2AA19E30005EDBFB /* generate-flow.js in Resources */,
+				AD56EBC72AA19E30005EDBFB /* browser.js in Resources */,
+				AD56EBB82AA19E30005EDBFB /* Octicons.js in Resources */,
+				AD56EC142AA19E30005EDBFB /* AntDesign.js.flow in Resources */,
+				AD56EB962AA19E30005EDBFB /* object-utils.js in Resources */,
+				AD56EC032AA19E30005EDBFB /* usage.js in Resources */,
+				AD56EBF12AA19E30005EDBFB /* yargs in Resources */,
+				AD56EBA12AA19E30005EDBFB /* Fontisto.json in Resources */,
+				AD56EC5B2AA19E30005EDBFB /* SimpleLineIcons.ttf in Resources */,
+				AD56EB9E2AA19E30005EDBFB /* Feather.js.flow in Resources */,
+				AD56EC072AA19E30005EDBFB /* index.js in Resources */,
+				AD56EC3F2AA19E30005EDBFB /* Entypo.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,8 +1842,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD56EC1D2AA19E30005EDBFB /* VectorIconsModuleImpl.java in Sources */,
+				AD56EC1C2AA19E30005EDBFB /* VectorIconsPackage.java in Sources */,
+				AD56EC1A2AA19E30005EDBFB /* VectorIconsModule.java in Sources */,
 				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
+				AD56EB762AA19E30005EDBFB /* RNVectorIconsManager.m in Sources */,
+				AD56EC192AA19E30005EDBFB /* VectorIconsModule.java in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
