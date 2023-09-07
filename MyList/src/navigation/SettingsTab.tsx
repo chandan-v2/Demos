@@ -10,7 +10,7 @@ const Stack = createNativeStackNavigator();
 
 const SettingsTab = () => {
   return (
-    <Stack.Navigator>
+    <Stack.Navigator initialRouteName="SettingsScreen">
       <Stack.Screen name="SettingsScreen" component={SettingsScreen} />
       <Stack.Screen name="ProfileScreen" component={ProfileScreen} />
       <Stack.Screen name="SupportScreen" component={SupportScreen} />

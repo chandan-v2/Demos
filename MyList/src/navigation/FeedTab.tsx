@@ -1,17 +1,17 @@
 // src/navigation/FeedTab.tsx
 import React from 'react';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import FeedScreen from '../screens/FeedTab/FeedScreen'; 
+import {createNativeStackNavigator} from '@react-navigation/native-stack';
+import FeedScreen from '../screens/FeedTab/FeedScreen';
 import FeedDetailsScreen from '../screens/FeedTab/FeedDetailsScreen';
 
-const Stack = createNativeStackNavigator();
+const FeedStack = createNativeStackNavigator();
 
 const FeedTab = () => {
   return (
-    <Stack.Navigator>
-      <Stack.Screen name="FeedScreen" component={FeedScreen} />
-      <Stack.Screen name="FeedDetailsScreen" component={FeedDetailsScreen} />
-    </Stack.Navigator>
+    <FeedStack.Navigator initialRouteName="FeedScreen">
+      <FeedStack.Screen name="FeedScreen" component={FeedScreen} />
+      <FeedStack.Screen name="FeedDetailsScreen" component={FeedDetailsScreen} />
+    </FeedStack.Navigator>
   );
 };
 
